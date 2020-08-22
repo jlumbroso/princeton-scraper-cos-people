@@ -1,0 +1,95 @@
+{
+  "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
+  "timestamp": "2020-08-22T23:47:13.849478",
+  "data": [
+    {
+      "email": "doug@cs.princeton.edu",
+      "degree": "Ph.D., Carnegie-Mellon University, 1976",
+      "title": "Professor Emeritus",
+      "name": "Douglas Clark",
+      "research-interests": "Computer architecture and organization; architecturally-focused performance analysis.",
+      "homepage": "https://www.cs.princeton.edu/~doug",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/doug",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=10&thumb=",
+      "netid": "doug",
+      "first": "Douglas",
+      "last": "Clark",
+      "type": "emeritus-faculty"
+    },
+    {
+      "email": "prc@cs.princeton.edu",
+      "degree": "Ph.D., Stanford University, 1991",
+      "title": "Professor Emeritus",
+      "name": "Perry Cook",
+      "research-interests": "Computer Music; Simulation of Musical Acoustics and Voice; Real-Time Expressive Computer Control, Human-Computer Interfacing.",
+      "homepage": "https://www.cs.princeton.edu/~prc",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=11&thumb=",
+      "netid": "prc",
+      "first": "Perry",
+      "last": "Cook",
+      "type": "emeritus-faculty"
+    },
+    {
+      "email": "funk@cs.princeton.edu",
+      "degree": "Ph.D., University of California, Berkeley, 1993",
+      "title": "David M. Siegel Professor of Computer Science",
+      "name": "Thomas Funkhouser",
+      "research-interests": "Computer graphics and computer vision.\r\nACM SIGGRAPH Computer Graphics Achievement Award, 2014.",
+      "homepage": "https://www.cs.princeton.edu/~funk",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/funk",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=16&thumb=",
+      "netid": "funk",
+      "first": "Thomas",
+      "last": "Funkhouser",
+      "type": "emeritus-faculty"
+    },
+    {
+      "email": "aslp@cs.princeton.edu",
+      "degree": "Ph.D., Massachusetts Institute of Technology, 1980",
+      "title": "Professor Emeritus",
+      "name": "Andrea LaPaugh",
+      "research-interests": "Search and retrieval of information; data mining, particularly clustering; combinatorial algorithms.",
+      "homepage": "https://www.cs.princeton.edu/~aslp",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/aslp",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=20&thumb=",
+      "netid": "aslp",
+      "first": "Andrea",
+      "last": "LaPaugh",
+      "type": "emeritus-faculty"
+    },
+    {
+      "email": "rjl@cs.princeton.edu",
+      "title": "Professor Emeritus",
+      "name": "Richard Lipton",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=839&thumb=",
+      "netid": "rjl",
+      "first": "Richard",
+      "last": "Lipton",
+      "type": "emeritus-faculty"
+    },
+    {
+      "email": "ken@cs.princeton.edu",
+      "office": "249 194 Nassau Street (Interoffice Address: Computer Science Bldg)",
+      "degree": "Eng. Sc.D., New York University, 1963",
+      "title": "Eugene Higgins Professor, Emeritus",
+      "name": "Kenneth Steiglitz",
+      "research-interests": "Agent-based simulation of economies, computing with solitons, auctions and barter mechanisms.\r\nIEEE Fellow, 1981.",
+      "homepage": "https://www.cs.princeton.edu/~ken",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=31&thumb=",
+      "netid": "ken",
+      "first": "Kenneth",
+      "last": "Steiglitz",
+      "type": "emeritus-faculty"
+    },
+    {
+      "email": "yao@cs.princeton.edu",
+      "title": "Professor Emeritus",
+      "name": "Andrew Yao",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=840&thumb=",
+      "netid": "yao",
+      "first": "Andrew",
+      "last": "Yao",
+      "type": "emeritus-faculty"
+    }
+  ]
+}

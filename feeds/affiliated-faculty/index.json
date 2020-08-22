@@ -1,0 +1,179 @@
+{
+  "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
+  "timestamp": "2020-08-22T23:47:13.492348",
+  "data": [
+    {
+      "degree": "Ph.D., Massachusetts Institute of Technology, 2011",
+      "title": "Associated Faculty",
+      "name": "Amir Ali Ahmadi",
+      "research-interests": "Polynomial and semidefinite optimization, dynamical systems, computational complexity in numerical optimization, applied mathematics",
+      "affiliations": "Department of Operations Research & Financial Engineering",
+      "homepage": "http://aaa.princeton.edu/",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2919&thumb=",
+      "first": "Amir Ali",
+      "last": "Ahmadi",
+      "type": "affiliated-faculty"
+    },
+    {
+      "degree": "Ph.D., Stanford University, 2014",
+      "title": "Associated Faculty",
+      "name": "Yuxin Chen",
+      "research-interests": "Convex and nonconvex optimization, high-dimensional structured estimation, statistical learning and inference, and information theory.",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "http://www.princeton.edu/~yc5/index.html",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4272&thumb=",
+      "first": "Yuxin",
+      "last": "Chen",
+      "type": "affiliated-faculty"
+    },
+    {
+      "degree": "Ph.D., University of California, Berkeley, 1989",
+      "title": "Associated Faculty",
+      "name": "Jianqing Fan",
+      "affiliations": "Department of Operations Research & Financial Engineering",
+      "homepage": "https://orfe.princeton.edu/~jqfan/",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4130&thumb=",
+      "first": "Jianqing",
+      "last": "Fan",
+      "type": "affiliated-faculty"
+    },
+    {
+      "office": "B316 Engineering Quadrangle",
+      "degree": "Ph.D., University of California Berkeley, 2019",
+      "title": "Associated Faculty",
+      "name": "Jaime Fern\u00e1ndez Fisac",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "https://ee.princeton.edu/people/jaime-fernandez-fisac",
+      "first": "Jaime Fern\u00e1ndez",
+      "last": "Fisac",
+      "type": "affiliated-faculty"
+    },
+    {
+      "degree": "Ph.D., University of California, Berkeley, 2019",
+      "title": "Associated Faculty",
+      "name": "Chi Jin",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "https://sites.google.com/view/cjin/home",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5255&thumb=",
+      "first": "Chi",
+      "last": "Jin",
+      "type": "affiliated-faculty"
+    },
+    {
+      "degree": "Ph.D., Stanford University, 2015",
+      "title": "Associated Faculty",
+      "name": "Jason Lee",
+      "research-interests": "Statistics, machine learning and optimization, with special attention on the foundations of deep learning and non-convex optimization.",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "https://ee.princeton.edu/people/faculty/jason-d-lee",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5203&thumb=",
+      "first": "Jason",
+      "last": "Lee",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "Ruby Lee",
+      "research-interests": "Computer Security; Computer Architecture; Secure Cloud Computing; Trustworthy Mobile Computing; Secure Smartphones; Secure Sensor Nets; Security Verification; Distributed Denial of Service Mitigation.",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "https://www.princeton.edu/~rblee/",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=846&thumb=",
+      "first": "Ruby",
+      "last": "Lee",
+      "type": "affiliated-faculty"
+    },
+    {
+      "office": "D202-B Engineering Quadrangle",
+      "degree": "Ph.D., Massachusetts Institute of Technology, 2016",
+      "title": "Associated Faculty",
+      "name": "Anirudha Majumdar",
+      "research-interests": "I am interested in developing approaches for pushing agile robotic systems to the brink of their hardware limits while providing formal guarantees on their safety and performance. I am particularly excited about applying algorithmic and theoretical techniques from nonlinear control theory, optimization, motion planning, and machine learning to the areas of autonomous unmanned aerial vehicle flight, legged locomotion, and grasping/manipulation.",
+      "affiliations": "Department of Mechanical and Aerospace Engineering",
+      "homepage": "https://irom-lab.princeton.edu/majumdar/",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4519&thumb=",
+      "first": "Anirudha",
+      "last": "Majumdar",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "Prateek Mittal",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "http://ee.princeton.edu/people/faculty/prateek-mittal",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2814&thumb=",
+      "first": "Prateek",
+      "last": "Mittal",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "Paul Seymour",
+      "affiliations": "Department of Mathematics",
+      "homepage": "http://www.math.princeton.edu/~pds/",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=851&thumb=",
+      "first": "Paul",
+      "last": "Seymour",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "John Storey",
+      "affiliations": "Lewis-Sigler Institute for Integrative Genomics",
+      "homepage": "http://storeylab.org/",
+      "first": "John",
+      "last": "Storey",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "Dan Trueman",
+      "affiliations": "Department of Music",
+      "homepage": "http://silvertone.princeton.edu/~dan/",
+      "first": "Dan",
+      "last": "Trueman",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "Robert Vanderbei",
+      "affiliations": "Department of Operations Research & Financial Engineering",
+      "homepage": "http://www.princeton.edu/~rvdb/",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=853&thumb=",
+      "first": "Robert",
+      "last": "Vanderbei",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "Janet Vertesi",
+      "affiliations": "Department of Sociology",
+      "homepage": "https://janet.vertesi.com/",
+      "first": "Janet",
+      "last": "Vertesi",
+      "type": "affiliated-faculty"
+    },
+    {
+      "degree": "Ph.D., Massachusetts Institute of Technology, 2013",
+      "title": "Associated Faculty",
+      "name": "Mengdi Wang",
+      "research-interests": "Stochastic optimization, reinforcement learning, optimization for machine learning",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "https://mwang.princeton.edu/",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4309&thumb=",
+      "first": "Mengdi",
+      "last": "Wang",
+      "type": "affiliated-faculty"
+    },
+    {
+      "title": "Associated Faculty",
+      "name": "David Wentzlaff",
+      "research-interests": "Computer Architecture, Parallel Computer Architecture, Manycore Systems, Operating Systems, Sustainable Computing, Parallel Computing, Data Center Computing, Cloud Computing",
+      "affiliations": "Department of Electrical Engineering",
+      "homepage": "http://www.ee.princeton.edu/people/faculty/david-wentzlaff",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2075&thumb=",
+      "first": "David",
+      "last": "Wentzlaff",
+      "type": "affiliated-faculty"
+    }
+  ]
+}

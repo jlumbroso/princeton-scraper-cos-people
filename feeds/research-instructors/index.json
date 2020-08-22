@@ -1,0 +1,17 @@
+{
+  "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
+  "timestamp": "2020-08-22T23:47:14.675893",
+  "data": [
+    {
+      "email": "singla@cs.princeton.edu",
+      "office": "219 194 Nassau Street (Interoffice Address: Computer Science Bldg)",
+      "degree": "Ph.D., Carnegie Mellon University, 2018",
+      "title": "Instructor",
+      "name": "Sahil Singla",
+      "netid": "singla",
+      "first": "Sahil",
+      "last": "Singla",
+      "type": "research-instructors"
+    }
+  ]
+}

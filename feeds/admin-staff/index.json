@@ -1,0 +1,110 @@
+{
+  "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
+  "timestamp": "2020-08-22T23:47:15.397401",
+  "data": [
+    {
+      "email": "mjbrown@cs.princeton.edu",
+      "office": "224 Computer Science",
+      "title": "Senior Manager, Finance and Administration",
+      "name": "Michele Brown",
+      "netid": "mjbrown",
+      "first": "Michele",
+      "last": "Brown",
+      "type": "admin-staff"
+    },
+    {
+      "email": "lcerrito@cs.princeton.edu",
+      "office": "204 Computer Science",
+      "title": "Undergraduate Administrator",
+      "name": "Laura Cerrito",
+      "netid": "lcerrito",
+      "first": "Laura",
+      "last": "Cerrito",
+      "type": "admin-staff"
+    },
+    {
+      "email": "pdeloref@cs.princeton.edu",
+      "office": "205 Computer Science",
+      "title": "Business Manager",
+      "name": "Pamela DelOrefice",
+      "netid": "pdeloref",
+      "first": "Pamela",
+      "last": "DelOrefice",
+      "type": "admin-staff"
+    },
+    {
+      "email": "mh45@cs.princeton.edu",
+      "office": "206 Computer Science",
+      "title": "Independent Work Administrator",
+      "name": "Mikki Hornstein",
+      "netid": "mh45",
+      "first": "Mikki",
+      "last": "Hornstein",
+      "type": "admin-staff"
+    },
+    {
+      "email": "mkelly@cs.princeton.edu",
+      "office": "306 194 Nassau Street (Interoffice Address: Computer Science Bldg)",
+      "title": "Secretary",
+      "name": "Mitra Kelly",
+      "homepage": "https://www.cs.princeton.edu/~mkelly",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=41&thumb=",
+      "netid": "mkelly",
+      "first": "Mitra",
+      "last": "Kelly",
+      "type": "admin-staff"
+    },
+    {
+      "email": "ckenny@cs.princeton.edu",
+      "office": "210 Computer Science",
+      "title": "Undergraduate Program Manager",
+      "name": "Colleen Kenny",
+      "netid": "ckenny",
+      "first": "Colleen",
+      "last": "Kenny",
+      "type": "admin-staff"
+    },
+    {
+      "email": "emilyl@cs.princeton.edu",
+      "office": "223 Computer Science",
+      "title": "Administrative Coordinator",
+      "name": "Emily Lawrence",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4356&thumb=",
+      "netid": "emilyl",
+      "first": "Emily",
+      "last": "Lawrence",
+      "type": "admin-staff"
+    },
+    {
+      "email": "ngotsis@cs.princeton.edu",
+      "office": "310 Computer Science",
+      "title": "Graduate Coordinator",
+      "name": "Nicki Mahler",
+      "netid": "ngotsis",
+      "first": "Nicki",
+      "last": "Mahler",
+      "type": "admin-staff"
+    },
+    {
+      "email": "lriehl@cs.princeton.edu",
+      "office": "206 Computer Science",
+      "title": "Program Coordinator / Administrative Coordinator",
+      "name": "Louis Riehl",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4520&thumb=",
+      "netid": "lriehl",
+      "first": "Louis",
+      "last": "Riehl",
+      "type": "admin-staff"
+    },
+    {
+      "email": "bjvarga@cs.princeton.edu",
+      "office": "225 Computer Science",
+      "title": "Grants Manager",
+      "name": "Barbara Varga",
+      "netid": "bjvarga",
+      "first": "Barbara",
+      "last": "Varga",
+      "type": "admin-staff"
+    }
+  ]
+}

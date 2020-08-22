@@ -1,0 +1,96 @@
+{
+  "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
+  "timestamp": "2020-08-22T23:47:15.036520",
+  "data": [
+    {
+      "email": "jrc@cs.princeton.edu",
+      "office": "101D Computer Science",
+      "title": "Manager, Application Development and Support",
+      "name": "Joseph Crouthamel",
+      "homepage": "https://www.cs.princeton.edu/~jrc",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/jrc",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=37&thumb=",
+      "netid": "jrc",
+      "first": "Joseph",
+      "last": "Crouthamel",
+      "type": "technical-staff"
+    },
+    {
+      "email": "advorkin@cs.princeton.edu",
+      "office": "101B Computer Science",
+      "title": "Senior Systems and Network Administrator",
+      "name": "Asya Dvorkin",
+      "homepage": "https://www.cs.princeton.edu/~advorkin",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/advorkin",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2090&thumb=",
+      "netid": "advorkin",
+      "first": "Asya",
+      "last": "Dvorkin",
+      "type": "technical-staff"
+    },
+    {
+      "email": "bh19@cs.princeton.edu",
+      "office": "101B Computer Science",
+      "title": "Systems and Network Administrator",
+      "name": "Brian Harkness",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5118&thumb=",
+      "netid": "bh19",
+      "first": "Brian",
+      "last": "Harkness",
+      "type": "technical-staff"
+    },
+    {
+      "email": "scott@cs.princeton.edu",
+      "office": "101A Computer Science",
+      "degree": "Ph.D., Princeton University, 2003",
+      "title": "Senior Manager, Computing Facilities",
+      "name": "Scott Karlin",
+      "research-interests": "Networked Systems, Operating Systems, Hardware/Software Interfaces",
+      "homepage": "https://www.cs.princeton.edu/~scott",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/scott",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=40&thumb=",
+      "netid": "scott",
+      "first": "Scott",
+      "last": "Karlin",
+      "type": "technical-staff"
+    },
+    {
+      "email": "cmmiller@cs.princeton.edu",
+      "office": "101D Computer Science",
+      "title": "Manager, Infrastructure Operations",
+      "name": "Chris Miller",
+      "homepage": "https://www.cs.princeton.edu/~cmmiller",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/cmmiller",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=44&thumb=",
+      "netid": "cmmiller",
+      "first": "Chris",
+      "last": "Miller",
+      "type": "technical-staff"
+    },
+    {
+      "email": "cmsanche@cs.princeton.edu",
+      "office": "101C Computer Science",
+      "title": "Web Developer",
+      "name": "Chris Sanchez",
+      "homepage": "https://www.cs.princeton.edu/~cmsanche",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/cmsanche",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=46&thumb=",
+      "netid": "cmsanche",
+      "first": "Chris",
+      "last": "Sanchez",
+      "type": "technical-staff"
+    },
+    {
+      "email": "rtyler@cs.princeton.edu",
+      "office": "101E Computer Science",
+      "title": "Technical Support Specialist",
+      "name": "Rasool Tyler",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/rtyler",
+      "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2482&thumb=",
+      "netid": "rtyler",
+      "first": "Rasool",
+      "last": "Tyler",
+      "type": "technical-staff"
+    }
+  ]
+}
