@@ -30,7 +30,7 @@ class CosPersonType(enum.Enum):
     grad_students = "grad"
 
     def __str__(self):
-        return self.name
+        return self.name.replace("_", "-")
 
     @classmethod
     def from_string(cls, name: str) -> typing.Optional[typing.Any]:
