@@ -1,9 +1,11 @@
 
+import base64
 import enum
 import typing
 import urllib.parse
 
 import bs4
+import requests
 
 import princeton_scraper_cos_people.helpers
 
@@ -34,6 +36,9 @@ class CosPersonType(enum.Enum):
     def from_string(cls, name: str) -> typing.Optional[typing.Any]:
         for typname, typ in cls.__members__.items():
             if typname == name:
+                return typ
+
+            if typname == name.replace("-", "_"):
                 return typ
 
 
@@ -76,6 +81,32 @@ CS_DEFAULT_IMG_FILENAME = "default.png"
 CS_PROPERTY_ON_LEAVE = "(on leave)"
 
 
+def _parse_cs_person_type(person_type):
+    if type(person_type) is str:
+        return CosPersonType.from_string(person_type)
+
+    if type(person_type) is CosPersonType:
+        return person_type
+
+
+def parse_cs_person_types(person_type_or_types):
+    if person_type_or_types is None:
+        return []
+
+    if type(person_type_or_types) is str and ("," in person_type_or_types or ";" in person_type_or_types):
+        person_type_or_types = person_type_or_types.replace(",", ";")
+        lst = list(map(str.strip, person_type_or_types.split(";")))
+        return parse_cs_person_types(lst)
+
+    if type(person_type_or_types) is not list:
+        return parse_cs_person_types([person_type_or_types])
+
+    if type(person_type_or_types) is list:
+        return list(map(_parse_cs_person_type, person_type_or_types))
+
+    return []
+
+
 def clean_cs_email(
         str_or_dict: typing.Union[str, dict]
 ) -> typing.Optional[typing.Union[str, dict]]:
@@ -97,6 +128,23 @@ def clean_cs_email(
         if email is not None and email != "":
             str_or_dict["email"] = email
         return str_or_dict
+
+
+def download_image(person: CosPersonInformation) -> CosPersonInformation:
+    if "image-url" not in person:
+        return person
+
+    image_url = person["image-url"]
+    response = requests.get(image_url)
+
+    if not response.ok:
+        return person
+
+    # base64 encode the downloaded image and save in record
+    image_b64 = base64.b64encode(response.content).decode()
+    person["image"] = image_b64
+
+    return person
 
 
 def parse_cs_person(

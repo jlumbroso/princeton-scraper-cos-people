@@ -1,14 +1,10 @@
 
-import enum
 import typing
 import urllib.parse
 
 import requests
 import bs4
 
-import princeton_scraper_cos_people.campus_directory
-import princeton_scraper_cos_people.constants
-import princeton_scraper_cos_people.helpers
 import princeton_scraper_cos_people.parsing
 
 
@@ -33,21 +29,53 @@ def _build_directory_url(
     return url
 
 
-def fetch_cos_people_directory() -> typing.List[princeton_scraper_cos_people.parsing.CosPersonInformation]:
+def _fetch_cos_people_directory(
+        person_type: princeton_scraper_cos_people.parsing.CosPersonType
+) -> typing.List[princeton_scraper_cos_people.parsing.CosPersonInformation]:
+    url = _build_directory_url(person_type)
+    response = requests.get(url)
+
+    if not response.ok:
+        return []
+
+    soup = bs4.BeautifulSoup(response.content, features="html.parser")
+
+    div_list = soup.find_all("div", {"class": "person"})
+    person_list = list(filter(lambda obj: obj is not None, map(
+        lambda tag: princeton_scraper_cos_people.parsing.parse_cs_person(
+            tag=tag,
+            person_type=person_type),
+        div_list
+    )))
+
+    return person_list
+
+
+# noinspection PyBroadException
+def fetch_cos_people_directory(
+        person_types: typing.Optional[typing.List[princeton_scraper_cos_people.parsing.CosPersonType]] = None,
+        download_images: bool = False,
+) -> typing.List[princeton_scraper_cos_people.parsing.CosPersonInformation]:
 
     records = []
 
-    for typname, typ in princeton_scraper_cos_people.parsing.CosPersonType.__members__.items():
-        url = _build_directory_url(typ)
-        response = requests.get(url)
-        if response.ok:
-            soup = bs4.BeautifulSoup(response.content, features="html.parser")
-            div_list = soup.find_all("div", {"class": "person"})
-            person_list = list(filter(lambda obj: obj is not None, map(
-                lambda tag: princeton_scraper_cos_people.parsing.parse_cs_person(tag=tag, person_type=typ),
-                div_list
-            )))
-            if len(person_list) > 0:
-                records = records + person_list
+    if person_types is None:
+        person_types = princeton_scraper_cos_people.parsing.CosPersonType.__members__.values()
+
+    for person_type in person_types:
+
+        person_list = _fetch_cos_people_directory(
+            person_type=person_type,
+        )
+
+        if person_list is not None and len(person_list) > 0:
+            records += person_list
+
+    # let's not fail because the images couldn't be downloaded
+    if download_images:
+        try:
+            records = list(map(princeton_scraper_cos_people.parsing.download_image, records))
+        except:
+            pass
 
     return records
