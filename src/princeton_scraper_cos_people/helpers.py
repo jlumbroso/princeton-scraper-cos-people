@@ -45,7 +45,7 @@ def extract_text(
         default: typing.Optional[str] = None,
         postprocess: typing.Optional[typing.Callable[[bs4.Tag], str]] = None,
         remove_label_text: bool = True,
-):
+) -> typing.Optional[str]:
     if tag is None:
         return default
 

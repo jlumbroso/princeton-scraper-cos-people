@@ -1,4 +1,5 @@
 
+import enum
 import typing
 import urllib.parse
 
@@ -10,23 +11,74 @@ import princeton_scraper_cos_people.helpers
 __author__ = "Jérémie Lumbroso <lumbroso@cs.princeton.edu>"
 
 __all__ = [
+    "CosPersonType",
+    "CosPersonInformation",
     "parse_cs_person",
 ]
 
+
+class CosPersonType(enum.Enum):
+    faculty = "faculty?type=main"
+    affiliated_faculty = "faculty?type=associated"
+    emeritus_faculty = "faculty?type=emeritus"
+    researchers = "research"
+    research_instructors = "researchinstructors"
+    technical_staff = "restech"
+    admin_staff = "admins"
+    grad_students = "grad"
+
+    def __str__(self):
+        return self.name
+
+    @classmethod
+    def from_string(cls, name: str) -> typing.Optional[typing.Any]:
+        for typname, typ in cls.__members__.items():
+            if typname == name:
+                return typ
+
+
+# COS directory info type
+
+CosPersonInformation = typing.TypedDict(
+    "CosPersonInformation", {
+        "netid": str,
+        "email": str,
+        "name": str,
+        "first": str,
+        "last": str,
+        "profile-url": str,
+        "image-url": str,
+        "image": str,
+        "website": str,
+        "office": str,
+        "phone": str,
+        "research-areas": str,
+        "research-interests": str,
+        "title": str,
+        "degree": str,
+        "advisers": str,
+        "type": str,
+        "affiliations": str,
+    }, total=False)
+
+
+# Hard-coded constants that are required to scrape the web page
+
+CS_URL_BASE = "https://www.cs.princeton.edu/"
 
 CS_EMAIL_SPLITTER_FULL = "\xa0\xa0(&commatcs.princeton.edu)"
 CS_EMAIL_SPLITTER_PARTIAL = "\xa0"
 CS_EMAIL_SUFFIX_CLEAN = "@cs.princeton.edu"
 
-CS_URL_BASE = "https://www.cs.princeton.edu/"
 CS_DEFAULT_IMG = "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/default.png"
 CS_DEFAULT_IMG_FILENAME = "default.png"
 
 CS_PROPERTY_ON_LEAVE = "(on leave)"
 
 
-
-def clean_cs_email(str_or_dict: typing.Union[str, dict]) -> typing.Optional[typing.Union[str, dict]]:
+def clean_cs_email(
+        str_or_dict: typing.Union[str, dict]
+) -> typing.Optional[typing.Union[str, dict]]:
     if type(str_or_dict) is str:
         prefix = None
 
@@ -47,7 +99,10 @@ def clean_cs_email(str_or_dict: typing.Union[str, dict]) -> typing.Optional[typi
         return str_or_dict
 
 
-def parse_cs_person(tag: bs4.Tag) -> dict:
+def parse_cs_person(
+        tag: bs4.Tag,
+        person_type: typing.Optional[CosPersonType] = None,
+) -> CosPersonInformation:
     record = {}
 
     def add_field(field, value):
@@ -66,6 +121,7 @@ def parse_cs_person(tag: bs4.Tag) -> dict:
     add_field_from_tag("advisers", css_class="person-advisers")
     add_field_from_tag("research-areas", css_class="person-research-areas")
     add_field_from_tag("research-interests", css_class="person-research-interests")
+    add_field_from_tag("affiliations", css_class="person-dept")
 
     # links
     add_field_from_tag("homepage", css_class="btn", css_subclass="glyphicon-globe",
@@ -102,4 +158,10 @@ def parse_cs_person(tag: bs4.Tag) -> dict:
         record["first"] = first
         record["last"] = last
 
+    if person_type is not None:
+        record["type"] = str(person_type)
+
     return record
+
+
+
