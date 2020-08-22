@@ -1,7 +1,6 @@
 
 import typing
 
-import requests
 import bs4
 
 
@@ -38,6 +37,7 @@ def split_name(name: str) -> typing.Tuple[str, str]:
     return first_joined, last_joined
 
 
+# noinspection PyBroadException
 def extract_text(
         tag: bs4.Tag,
         css_class: typing.Optional[str] = None,

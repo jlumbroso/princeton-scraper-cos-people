@@ -1,0 +1,85 @@
+
+import typing
+import urllib.parse
+
+import bs4
+
+import princeton_scraper_cos_people.helpers
+
+__author__ = "Jérémie Lumbroso <lumbroso@cs.princeton.edu>"
+
+__all__ = [
+]
+
+
+CS_EMAIL_SPLITTER_FULL = "\xa0\xa0(&commatcs.princeton.edu)"
+CS_EMAIL_SPLITTER_PARTIAL = "\xa0"
+CS_EMAIL_SUFFIX_CLEAN = "@cs.princeton.edu"
+
+CS_URL_BASE = "https://www.cs.princeton.edu/"
+CS_DEFAULT_IMG = "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/default.png"
+
+
+
+
+def clean_cs_email(str_or_dict: typing.Union[str, dict]) -> typing.Optional[typing.Union[str, dict]]:
+    if type(str_or_dict) is str:
+        prefix = None
+
+        if CS_EMAIL_SPLITTER_FULL in str_or_dict:
+            prefix = str_or_dict.split(CS_EMAIL_SPLITTER_FULL)[0].strip()
+
+        elif CS_EMAIL_SPLITTER_PARTIAL in str_or_dict:
+            prefix = str_or_dict.split(CS_EMAIL_SPLITTER_PARTIAL)[0].strip()
+
+        if prefix is not None:
+            email = "{}{}".format(prefix, CS_EMAIL_SUFFIX_CLEAN)
+            return email
+
+    elif type(str_or_dict) is dict:
+        email = clean_cs_email(str_or_dict.get("email", ""))
+        if email is not None and email != "":
+            str_or_dict["email"] = email
+        return str_or_dict
+
+
+def parse_cs_person(tag: bs4.Tag) -> dict:
+    record = {}
+
+    def add_field(field, value):
+        if value is not None:
+            record[field] = value
+
+    def add_field_from_tag(field, **kwargs):
+        value = princeton_scraper_cos_people.helpers.extract_text(tag, default=None, **kwargs)
+        add_field(field, value)
+
+    add_field_from_tag("email", css_class="person-address-item", css_subclass="glyphicon-envelope")
+    add_field_from_tag("office", css_class="person-address-item", css_subclass="glyphicon-briefcase")
+    add_field_from_tag("degree", css_class="person-degree")
+    add_field_from_tag("title", css_class="person-title")
+    add_field_from_tag("name", css_class="person-name")
+    add_field_from_tag("advisers", css_class="person-advisers")
+    add_field_from_tag("research-areas", css_class="person-research-areas")
+    add_field_from_tag("research-interests", css_class="person-research-interests")
+
+    # links
+    add_field_from_tag("homepage", css_class="btn", css_subclass="glyphicon-globe",
+                       postprocess=lambda tag: tag.get("href"))
+    add_field_from_tag("cs-profile", css_class="btn", css_subclass="glyphicon-arrow-right",
+                       postprocess=lambda tag: tag.get("href"))
+
+    # img
+    imgtag = tag.find("img")
+    if imgtag is not None and imgtag["src"] is not None:
+        img_src = imgtag["src"]
+        if img_src == CS_DEFAULT_IMG:
+            record["img"] = urllib.parse.urljoin(CS_URL_BASE, img_src)
+
+    # postprocessing
+    record = clean_cs_email(record)
+    if "cs-profile" in record:
+        record["cs-profile"] = urllib.parse.urljoin(CS_URL_BASE,
+                                                    record["cs-profile"])
+
+    return record
