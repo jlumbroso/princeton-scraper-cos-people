@@ -6,9 +6,11 @@ import bs4
 
 import princeton_scraper_cos_people.helpers
 
+
 __author__ = "Jérémie Lumbroso <lumbroso@cs.princeton.edu>"
 
 __all__ = [
+    "parse_cs_person",
 ]
 
 
@@ -18,7 +20,9 @@ CS_EMAIL_SUFFIX_CLEAN = "@cs.princeton.edu"
 
 CS_URL_BASE = "https://www.cs.princeton.edu/"
 CS_DEFAULT_IMG = "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/default.png"
+CS_DEFAULT_IMG_FILENAME = "default.png"
 
+CS_PROPERTY_ON_LEAVE = "(on leave)"
 
 
 
@@ -66,20 +70,36 @@ def parse_cs_person(tag: bs4.Tag) -> dict:
     # links
     add_field_from_tag("homepage", css_class="btn", css_subclass="glyphicon-globe",
                        postprocess=lambda tag: tag.get("href"))
-    add_field_from_tag("cs-profile", css_class="btn", css_subclass="glyphicon-arrow-right",
+    add_field_from_tag("profile-url", css_class="btn", css_subclass="glyphicon-arrow-right",
                        postprocess=lambda tag: tag.get("href"))
 
     # img
     imgtag = tag.find("img")
     if imgtag is not None and imgtag["src"] is not None:
         img_src = imgtag["src"]
-        if img_src == CS_DEFAULT_IMG:
-            record["img"] = urllib.parse.urljoin(CS_URL_BASE, img_src)
+        if CS_DEFAULT_IMG_FILENAME not in img_src:
+            record["image-url"] = urllib.parse.urljoin(CS_URL_BASE, img_src)
 
     # postprocessing
+
     record = clean_cs_email(record)
-    if "cs-profile" in record:
-        record["cs-profile"] = urllib.parse.urljoin(CS_URL_BASE,
-                                                    record["cs-profile"])
+
+    # NOTE: check that this is an NetID? not an alias?
+    if "email" in record and "@cs.princeton.edu" in record["email"]:
+        record["netid"] = record["email"].split("@")[0]
+
+    if "profile-url" in record:
+        record["profile-url"] = urllib.parse.urljoin(CS_URL_BASE,
+                                                     record["profile-url"])
+
+    if "name" in record:
+        if CS_PROPERTY_ON_LEAVE in record["name"]:
+            record["name"] = record["name"].replace(CS_PROPERTY_ON_LEAVE, "").strip()
+            record["leave"] = True
+
+    if "name" in record:
+        first, last = princeton_scraper_cos_people.helpers.split_name(record["name"])
+        record["first"] = first
+        record["last"] = last
 
     return record
