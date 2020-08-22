@@ -13,6 +13,9 @@ __all__ = [
 ]
 
 
+CS_SCRAPING_LABEL_CLASS = "person-label"
+
+
 def split_name(name: str) -> typing.Tuple[str, str]:
     """
     Returns a likely `(first, last)` split given a full name. This uses
@@ -35,20 +38,44 @@ def split_name(name: str) -> typing.Tuple[str, str]:
     return first_joined, last_joined
 
 
-def extract_text(tag, css_class=None, css_subclass=None, default=None):
+def extract_text(
+        tag: bs4.Tag,
+        css_class: typing.Optional[str] = None,
+        css_subclass: typing.Optional[str] = None,
+        default: typing.Optional[str] = None,
+        postprocess: typing.Optional[typing.Callable[[bs4.Tag], str]] = None,
+        remove_label_text: bool = True,
+):
     if tag is None:
         return default
 
     if css_subclass is not None:
         tags = tag.find_all(attrs={"class": css_class})
-        tags = list(filter(lambda tag: tag.find(attrs={"class": css_subclass}) is not None, tags))
+        tags = list(filter(lambda t: t.find(attrs={"class": css_subclass}) is not None, tags))
+
+        if len(tags) == 0:
+            return
+
         tag = tags[0]
 
     elif css_class is not None:
         tag = tag.find(attrs={"class": css_class})
 
     try:
-        return tag.text.strip()
+        labeltag = tag.find(attrs={"class": CS_SCRAPING_LABEL_CLASS})
+        labeltext = "" if labeltag is None else labeltag.text
+
+        if postprocess is not None:
+            try:
+                return postprocess(tag)
+            except:
+                pass
+
+        text = tag.text.strip()
+        if remove_label_text and labeltext != "":
+            text = text.replace(labeltext, "").strip()
+
+        return text
     except:
         return default
 
