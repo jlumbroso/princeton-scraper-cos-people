@@ -20,7 +20,7 @@ jobs:
           python_version: 3.8.0
           poetry_version: 1.0
           working_directory: "./src"
-          args: run python -m princeton_scraper_cos_people --feeds ../
+          args: run python -m princeton_scraper_cos_people --img --feeds ../
 
 #      - name: Output CSV output
 #        uses: abatilo/actions-poetry@v1.5.0
