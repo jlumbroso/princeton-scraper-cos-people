@@ -7,7 +7,7 @@ from [the official, publicly available directory](https://www.cs.princeton.edu/p
 You can see [the main JSON feed by clicking here](https://jlumbroso.github.io/princeton-scraper-cos-people/feeds/).
 
 There are also sub-feeds by category of persons (faculty, grad students, staff, etc.).
-Read on to learn more.
+These feeds are all updated *every week on Saturday*. Read on to learn more.
 
 ## Accessing the static feeds
 

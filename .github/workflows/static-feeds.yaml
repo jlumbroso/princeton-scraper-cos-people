@@ -1,4 +1,8 @@
-on: ["push", "pull_request"]
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '* * * * 6' # run every Saturday
 name: Regenerate static feeds
 jobs:
   regenjson:
