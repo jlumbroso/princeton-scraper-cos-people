@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-08-24T01:04:01.206808",
+  "timestamp": "2020-08-29T00:31:37.022365",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -121,6 +121,7 @@
       "degree": "Ph.D., Stanford University, 2018",
       "title": "Assistant Professor",
       "name": "Danqi Chen",
+      "research-interests": "My research is in natural language processing (NLP) and machine learning. I am particularly interested in the intersection of text understanding and knowledge representation & reasoning and applications in question answering, information extraction, and conversational systems.",
       "homepage": "https://www.cs.princeton.edu/~danqic",
       "profile-url": "https://www.cs.princeton.edu/people/profile/danqic",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4884&thumb=",
@@ -614,6 +615,8 @@
       "degree": "Ph.D., Massachusetts Institute of Technology, 2017",
       "title": "Assistant Professor",
       "name": "Karthik Narasimhan",
+      "research-interests": "Natural language processing, Reinforcement learning, Grounded language understanding",
+      "homepage": "https://www.cs.princeton.edu/~karthikn",
       "profile-url": "https://www.cs.princeton.edu/people/profile/karthikn",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4419&thumb=",
       "netid": "karthikn",
@@ -778,6 +781,17 @@
       "leave": true,
       "first": "Sebastian",
       "last": "Seung",
+      "type": "faculty"
+    },
+    {
+      "email": "mshahrad@cs.princeton.edu",
+      "degree": "Ph.D., Princeton University, 2020",
+      "title": "Lecturer",
+      "name": "Mohammad Shahrad",
+      "homepage": "https://www.cs.princeton.edu/~mshahrad",
+      "netid": "mshahrad",
+      "first": "Mohammad",
+      "last": "Shahrad",
       "type": "faculty"
     },
     {
