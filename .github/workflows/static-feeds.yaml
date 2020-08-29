@@ -2,7 +2,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: '* * * * 6' # run every Saturday
+    - cron: '0 8 * * 6' # run every Saturday at 8am (https://crontab.guru/#0_8_*_*_6)
 name: Regenerate static feeds
 jobs:
   regenjson:
