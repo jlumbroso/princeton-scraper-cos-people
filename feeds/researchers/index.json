@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-09-02T18:11:57.304527",
+  "timestamp": "2020-09-02T22:37:56.371413",
   "data": [
     {
       "email": "sb38@cs.princeton.edu",
@@ -36,7 +36,6 @@
       "title": "Postdoctoral Research Associate",
       "name": "Kevin Borgolte",
       "netid": "borgolte",
-      "campus-email": null,
       "first": "Kevin",
       "last": "Borgolte",
       "type": "researchers"
@@ -114,7 +113,6 @@
       "title": "Postdoctoral Research Associate",
       "name": "Yuxing (Danny) Huang",
       "netid": "yuxingh",
-      "campus-email": null,
       "first": "Yuxing (Danny)",
       "last": "Huang",
       "type": "researchers"
