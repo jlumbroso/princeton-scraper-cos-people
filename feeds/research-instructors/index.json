@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-08-29T16:42:36.464019",
+  "timestamp": "2020-09-02T18:11:58.390191",
   "data": [
     {
       "email": "singla@cs.princeton.edu",
@@ -9,6 +9,7 @@
       "title": "Instructor",
       "name": "Sahil Singla",
       "netid": "singla",
+      "campus-email": "s.singla@princeton.edu",
       "first": "Sahil",
       "last": "Singla",
       "type": "research-instructors"

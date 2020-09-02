@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-08-29T16:42:40.128050",
+  "timestamp": "2020-09-02T18:12:18.157315",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -8,6 +8,7 @@
       "title": "Senior Manager, Finance and Administration",
       "name": "Michele Brown",
       "netid": "mjbrown",
+      "campus-email": "mjbrown@cs.princeton.edu",
       "first": "Michele",
       "last": "Brown",
       "type": "admin-staff"
@@ -18,6 +19,7 @@
       "title": "Undergraduate Administrator",
       "name": "Laura Cerrito",
       "netid": "lcerrito",
+      "campus-email": "lcerrito@princeton.edu",
       "first": "Laura",
       "last": "Cerrito",
       "type": "admin-staff"
@@ -28,6 +30,7 @@
       "title": "Business Manager",
       "name": "Pamela DelOrefice",
       "netid": "pdeloref",
+      "campus-email": "pdeloref@princeton.edu",
       "first": "Pamela",
       "last": "DelOrefice",
       "type": "admin-staff"
@@ -38,6 +41,7 @@
       "title": "Independent Work Administrator",
       "name": "Mikki Hornstein",
       "netid": "mh45",
+      "campus-email": "mhornstein@princeton.edu",
       "first": "Mikki",
       "last": "Hornstein",
       "type": "admin-staff"
@@ -50,6 +54,7 @@
       "homepage": "https://www.cs.princeton.edu/~mkelly",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=41&thumb=",
       "netid": "mkelly",
+      "campus-email": "mkelly@cs.princeton.edu",
       "first": "Mitra",
       "last": "Kelly",
       "type": "admin-staff",
@@ -61,6 +66,7 @@
       "title": "Undergraduate Program Manager",
       "name": "Colleen Kenny",
       "netid": "ckenny",
+      "campus-email": "ckenny@cs.princeton.edu",
       "first": "Colleen",
       "last": "Kenny",
       "type": "admin-staff"
@@ -72,6 +78,7 @@
       "name": "Emily Lawrence",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4356&thumb=",
       "netid": "emilyl",
+      "campus-email": "emilyl@princeton.edu",
       "first": "Emily",
       "last": "Lawrence",
       "type": "admin-staff",
@@ -83,6 +90,7 @@
       "title": "Graduate Coordinator",
       "name": "Nicki Mahler",
       "netid": "ngotsis",
+      "campus-email": "ngotsis@princeton.edu",
       "first": "Nicki",
       "last": "Mahler",
       "type": "admin-staff"
@@ -90,10 +98,11 @@
     {
       "email": "jtm7@cs.princeton.edu",
       "title": "Assistant Grants Manager",
-      "name": "Josie Melendez      \n      \n              (appointment starts August 31, 2020)",
+      "name": "Josie Melendez",
       "netid": "jtm7",
-      "first": "Josie Melendez (appointment starts August 31,",
-      "last": "2020)",
+      "campus-email": "jtm7@princeton.edu",
+      "first": "Josie",
+      "last": "Melendez",
       "type": "admin-staff"
     },
     {
@@ -103,6 +112,7 @@
       "name": "Louis Riehl",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4520&thumb=",
       "netid": "lriehl",
+      "campus-email": "lriehl@princeton.edu",
       "first": "Louis",
       "last": "Riehl",
       "type": "admin-staff",
@@ -114,6 +124,7 @@
       "title": "Grants Manager",
       "name": "Barbara Varga",
       "netid": "bjvarga",
+      "campus-email": "bjvarga@cs.princeton.edu",
       "first": "Barbara",
       "last": "Varga",
       "type": "admin-staff"
