@@ -7,6 +7,7 @@ import urllib.parse
 import bs4
 import requests
 
+import princeton_scraper_cos_people.campus_directory
 import princeton_scraper_cos_people.helpers
 
 
@@ -48,6 +49,7 @@ CosPersonInformation = typing.TypedDict(
     "CosPersonInformation", {
         "netid": str,
         "email": str,
+        "campus-email": str,
         "name": str,
         "first": str,
         "last": str,
@@ -189,8 +191,26 @@ def parse_cs_person(
     record = clean_cs_email(record)
 
     # NOTE: check that this is an NetID? not an alias?
-    if "email" in record and "@cs.princeton.edu" in record["email"]:
+    if "email" in record:
         record["netid"] = record["email"].split("@")[0]
+        try:
+            record["netid"] = princeton_scraper_cos_people.campus_directory.find_netid_from_princeton_email(
+                princeton_email=record["email"],
+                fast=False,
+            )
+        except:
+            pass
+
+    if "netid" in record:
+        try:
+            record["campus-email"] = princeton_scraper_cos_people.campus_directory.find_princeton_email_from_netid(
+                netid=record["netid"],
+            )
+        except:
+            pass
+
+        if "campus-email" in record and record["campus-email"] is None:
+            del record["campus-email"]
 
     if "profile-url" in record:
         record["profile-url"] = urllib.parse.urljoin(CS_URL_BASE,
