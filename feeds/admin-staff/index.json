@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-09-12T08:12:47.956945",
+  "timestamp": "2020-09-19T08:13:00.319843",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -8,7 +8,7 @@
       "title": "Senior Manager, Finance and Administration",
       "name": "Michele Brown",
       "netid": "mjbrown",
-      "campus-email": "mjbrown@cs.princeton.edu",
+      "campus-email": "mjbrown@princeton.edu",
       "first": "Michele",
       "last": "Brown",
       "type": "admin-staff"
@@ -54,7 +54,7 @@
       "homepage": "https://www.cs.princeton.edu/~mkelly",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=41&thumb=",
       "netid": "mkelly",
-      "campus-email": "mkelly@cs.princeton.edu",
+      "campus-email": "mkelly@princeton.edu",
       "first": "Mitra",
       "last": "Kelly",
       "type": "admin-staff",
@@ -66,7 +66,7 @@
       "title": "Undergraduate Program Manager",
       "name": "Colleen Kenny",
       "netid": "ckenny",
-      "campus-email": "ckenny@cs.princeton.edu",
+      "campus-email": "ckenny@princeton.edu",
       "first": "Colleen",
       "last": "Kenny",
       "type": "admin-staff"
@@ -124,7 +124,7 @@
       "title": "Grants Manager",
       "name": "Barbara Varga",
       "netid": "bjvarga",
-      "campus-email": "bjvarga@cs.princeton.edu",
+      "campus-email": "bjvarga@princeton.edu",
       "first": "Barbara",
       "last": "Varga",
       "type": "admin-staff"

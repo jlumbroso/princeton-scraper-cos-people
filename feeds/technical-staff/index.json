@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-09-12T08:12:40.407995",
+  "timestamp": "2020-09-19T08:12:52.871096",
   "data": [
     {
       "email": "jrc@cs.princeton.edu",
@@ -11,7 +11,7 @@
       "profile-url": "https://www.cs.princeton.edu/people/profile/jrc",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=37&thumb=",
       "netid": "jrc",
-      "campus-email": "jrc@cs.princeton.edu",
+      "campus-email": "jrc@princeton.edu",
       "first": "Joseph",
       "last": "Crouthamel",
       "type": "technical-staff",
@@ -56,7 +56,7 @@
       "profile-url": "https://www.cs.princeton.edu/people/profile/scott",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=40&thumb=",
       "netid": "scott",
-      "campus-email": "scott@cs.princeton.edu",
+      "campus-email": "scott@princeton.edu",
       "first": "Scott",
       "last": "Karlin",
       "type": "technical-staff",

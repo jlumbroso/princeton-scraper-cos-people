@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-09-12T08:12:33.443784",
+  "timestamp": "2020-09-19T08:12:46.119272",
   "data": [
     {
       "email": "sb38@cs.princeton.edu",
@@ -168,11 +168,11 @@
       "email": "congma@cs.princeton.edu",
       "degree": "Ph.D., Carnegie Mellon University, 2020",
       "title": "Postdoctoral Research Associate",
-      "name": "Cong Ma      \n      \n              (appointment starts September 15, 2020)",
+      "name": "Cong Ma",
       "netid": "congma",
       "campus-email": "congma@princeton.edu",
-      "first": "Cong Ma (appointment starts September 15,",
-      "last": "2020)",
+      "first": "Cong",
+      "last": "Ma",
       "type": "researchers"
     },
     {
@@ -209,7 +209,7 @@
       "profile-url": "https://www.cs.princeton.edu/people/profile/llp",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=24&thumb=",
       "netid": "llp",
-      "campus-email": "llp@cs.princeton.edu",
+      "campus-email": "llp@princeton.edu",
       "first": "Larry",
       "last": "Peterson",
       "type": "researchers",
