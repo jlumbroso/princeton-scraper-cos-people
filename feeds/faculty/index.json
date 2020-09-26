@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-09-19T08:12:17.253742",
+  "timestamp": "2020-09-26T08:13:23.865641",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -722,6 +722,7 @@
       "degree": "Ph.D., University of California, San Diego, 2002",
       "title": "Professor, Director of Graduate Studies",
       "name": "Ben Raphael",
+      "research-interests": "Developing and applying computational and mathematical methods to address biological questions at the molecular and cellular level. Human and cancer genomics, including algorithmic approaches to identify and interpret genomic alterations in genomes, reconstruct tumor evolution, and discover novel therapeutic interventions. Comparative genomics, particularly analysis of genome rearrangements in evolution. Algorithms for analysis of data from high-throughput genomics and proteomics technologies.",
       "profile-url": "https://www.cs.princeton.edu/people/profile/braphael",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3893&thumb=",
       "netid": "braphael",
@@ -817,7 +818,7 @@
       "degree": "Ph.D., Stanford University, 1975",
       "title": "William O. Baker '39 Professor",
       "name": "Robert Sedgewick",
-      "research-interests": "Scientific analysis of algorithms, Analytic combinatorics.\r\nACM Fellow, 1997",
+      "research-interests": "Algorithm science, Analytic combinatorics, Data structures\r\nACM Fellow, 1997",
       "homepage": "https://www.cs.princeton.edu/~rs",
       "profile-url": "https://www.cs.princeton.edu/people/profile/rs",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=28&thumb=",

@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-09-19T08:12:46.119272",
+  "timestamp": "2020-09-26T08:14:14.899689",
   "data": [
     {
       "email": "sb38@cs.princeton.edu",
@@ -137,6 +137,16 @@
       "campus-email": "tal3@princeton.edu",
       "first": "Thomas",
       "last": "Langlois",
+      "type": "researchers"
+    },
+    {
+      "email": "(&commatcs.princeton.edu)",
+      "degree": "Ph.D., Duke University, 2020",
+      "title": "Postdoctoral Research Associate",
+      "name": "Didong Li      \n      \n              (appointment starts October 1, 2020)",
+      "netid": "(&commatcs.princeton.edu)",
+      "first": "Didong Li (appointment starts October 1,",
+      "last": "2020)",
       "type": "researchers"
     },
     {
@@ -302,6 +312,18 @@
       "campus-email": "esin.tureci@princeton.edu",
       "first": "Esin",
       "last": "Tureci",
+      "type": "researchers"
+    },
+    {
+      "email": "svo@cs.princeton.edu",
+      "office": "416 Computer Science",
+      "degree": "Ph.D., New York University, 2018",
+      "title": "Postdoctoral Research Associate",
+      "name": "Sebastiaan van Opheusden",
+      "netid": "svo",
+      "campus-email": "svo@princeton.edu",
+      "first": "Sebastiaan",
+      "last": "van Opheusden",
       "type": "researchers"
     },
     {
