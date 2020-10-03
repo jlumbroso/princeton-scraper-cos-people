@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-09-26T08:14:36.388781",
+  "timestamp": "2020-10-03T08:15:28.252569",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -48,7 +48,7 @@
     },
     {
       "email": "mkelly@cs.princeton.edu",
-      "office": "306 194 Nassau Street (Interoffice Address: Computer Science Bldg)",
+      "office": "206 Computer Science",
       "title": "Secretary",
       "name": "Mitra Kelly",
       "homepage": "https://www.cs.princeton.edu/~mkelly",
