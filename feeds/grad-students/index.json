@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-10-24T08:17:48.218605",
+  "timestamp": "2020-10-31T08:18:43.597537",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -979,11 +979,12 @@
     {
       "email": "suhk@cs.princeton.edu",
       "title": "Graduate Student",
-      "name": "Suh Young Kim",
+      "name": "Sunnie S.Y. Kim",
       "advisers": "Olga Russakovsky",
+      "homepage": "https://www.cs.princeton.edu/~suhk",
       "netid": "suhk",
       "campus-email": "sunniesuhyoung@princeton.edu",
-      "first": "Suh Young",
+      "first": "Sunnie S.Y.",
       "last": "Kim",
       "type": "grad-students"
     },
