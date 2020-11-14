@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-11-07T08:15:02.110796",
+  "timestamp": "2020-11-14T08:11:24.452008",
   "data": [
     {
       "email": "sb38@cs.princeton.edu",
@@ -153,11 +153,12 @@
       "type": "researchers"
     },
     {
-      "email": "(&commatcs.princeton.edu)",
+      "email": "jl5167@cs.princeton.edu",
       "degree": "Ph.D., Korea University, 2019",
       "title": "Visiting Postdoctoral Research Associate",
       "name": "Jinhyuk Lee      \n      \n              (appointment starts January 1, 2021)",
-      "netid": "(&commatcs.princeton.edu)",
+      "netid": "jl5167",
+      "campus-email": "jl5167@princeton.edu",
       "first": "Jinhyuk Lee (appointment starts January 1,",
       "last": "2021)",
       "type": "researchers"
