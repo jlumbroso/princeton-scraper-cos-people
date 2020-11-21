@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-11-14T08:14:05.219490",
+  "timestamp": "2020-11-21T08:17:06.479805",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -919,6 +919,7 @@
       "title": "Graduate Student",
       "name": "Kritkorn Karntikoon",
       "advisers": "Bernard Chazelle",
+      "homepage": "https://www.cs.princeton.edu/~kritkorn",
       "netid": "kritkorn",
       "campus-email": "kritkorn@princeton.edu",
       "first": "Kritkorn",

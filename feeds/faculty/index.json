@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-11-14T08:10:52.309682",
+  "timestamp": "2020-11-21T08:13:50.816861",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -161,7 +161,7 @@
       "title": "Assistant Professor",
       "name": "Adji Dieng      \n      \n              (appointment starts September 1, 2021)",
       "netid": "ad6725",
-      "campus-email": "ad6725@princeton.edu",
+      "campus-email": "adji@princeton.edu",
       "first": "Adji Dieng (appointment starts September 1,",
       "last": "2021)",
       "type": "faculty"
@@ -729,9 +729,11 @@
       "email": "ravian@cs.princeton.edu",
       "degree": "Ph.D., Massachusetts Institute of Technology, 2018",
       "title": "Assistant Professor",
-      "name": "Ravi Netravali      \n      \n              (appointment starts July 1, 2021)",
+      "name": "Ravi Netravali\n(appointment starts July 1, 2021)",
+      "research-interests": "Systems, networking, distributed systems",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/ravian",
       "netid": "ravian",
-      "campus-email": "ravian@princeton.edu",
+      "campus-email": "netravali@princeton.edu",
       "first": "Ravi Netravali (appointment starts July 1,",
       "last": "2021)",
       "type": "faculty"
