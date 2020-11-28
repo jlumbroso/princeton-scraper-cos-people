@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-11-21T08:14:21.781117",
+  "timestamp": "2020-11-28T08:23:36.027218",
   "data": [
     {
       "email": "sb38@cs.princeton.edu",
@@ -305,6 +305,7 @@
       "degree": "Ph.D., Saarland University, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "Kathrin Stark",
+      "homepage": "https://www.cs.princeton.edu/~kstark",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5253&thumb=",
       "netid": "kstark",
       "campus-email": "kstark@princeton.edu",
