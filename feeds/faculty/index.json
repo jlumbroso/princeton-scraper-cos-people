@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-11-28T08:23:05.806079",
+  "timestamp": "2020-12-12T08:13:35.739706",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -616,7 +616,7 @@
       "degree": "Ph.D., Stanford, 1994",
       "title": "Hugh Trumbull Adams '35 Professor",
       "name": "Margaret Martonosi",
-      "research-interests": "Computer Architecture, Power-Aware Computing, and Mobile Computing.\r\nHPCA Test-of-Time Paper Award, 2018; IEEE Computer Society Technical Achievement Award, 2018; Marie Pistilli Women in EDA Achievement Award, 2015; Anita Borg Institute Technical Leadership Award, 2013; ACM Fellow, 2009;  IEEE Fellow, 2010.",
+      "research-interests": "Computer Architecture in Classical and Quantum Systems.\r\nIEEE Computer Society Technical Achievement Award, 2018; Anita Borg Institute Technical Leadership Award, 2013; ACM Fellow, 2009; IEEE Fellow, 2010. American Academy of Arts and Sciences, 2019.",
       "homepage": "https://www.cs.princeton.edu/~mrm",
       "profile-url": "https://www.cs.princeton.edu/people/profile/mrm",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=847&thumb=",

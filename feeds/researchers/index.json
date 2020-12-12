@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-11-28T08:23:36.027218",
+  "timestamp": "2020-12-12T08:14:06.375455",
   "data": [
     {
       "email": "sb38@cs.princeton.edu",
@@ -62,7 +62,6 @@
       "title": "Postdoctoral Research Associate",
       "name": "Ishita Dasgupta",
       "netid": "ishitad",
-      "campus-email": "ishitad@princeton.edu",
       "first": "Ishita",
       "last": "Dasgupta",
       "type": "researchers"

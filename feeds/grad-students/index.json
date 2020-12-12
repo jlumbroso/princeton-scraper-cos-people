@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-11-28T08:26:25.120202",
+  "timestamp": "2020-12-12T08:16:56.721580",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -57,7 +57,7 @@
       "email": "rbamos@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Ryan Amos",
-      "advisers": "Edward Felten",
+      "advisers": "Edward Felten,",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3899&thumb=",
       "netid": "rbamos",
       "campus-email": "rbamos@princeton.edu",
@@ -1137,6 +1137,17 @@
       "type": "grad-students"
     },
     {
+      "email": "monaw@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Mona Wang Li",
+      "advisers": "Jonathan Mayer",
+      "netid": "monaw",
+      "campus-email": "monaw@princeton.edu",
+      "first": "Mona Wang",
+      "last": "Li",
+      "type": "grad-students"
+    },
+    {
       "email": "nl5@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Nanqinqin Li",
@@ -1144,17 +1155,6 @@
       "netid": "nl5",
       "campus-email": "linanqinqin@princeton.edu",
       "first": "Nanqinqin",
-      "last": "Li",
-      "type": "grad-students"
-    },
-    {
-      "email": "monaw@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Sydney Li",
-      "advisers": "Jonathan Mayer",
-      "netid": "monaw",
-      "campus-email": "monaw@princeton.edu",
-      "first": "Sydney",
       "last": "Li",
       "type": "grad-students"
     },
