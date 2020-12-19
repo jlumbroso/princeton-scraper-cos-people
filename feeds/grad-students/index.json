@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-12-12T08:16:56.721580",
+  "timestamp": "2020-12-19T08:16:38.238740",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -2221,7 +2221,6 @@
       "research-areas": "Systems",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3156&thumb=",
       "netid": "dsuo",
-      "campus-email": "daniel.suo@princeton.edu",
       "first": "Daniel",
       "last": "Suo",
       "type": "grad-students",

@@ -1,18 +1,5 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-12-12T08:14:07.165364",
-  "data": [
-    {
-      "email": "singla@cs.princeton.edu",
-      "office": "318C Computer Science",
-      "degree": "Ph.D., Carnegie Mellon University, 2018",
-      "title": "Instructor",
-      "name": "Sahil Singla",
-      "netid": "singla",
-      "campus-email": "s.singla@princeton.edu",
-      "first": "Sahil",
-      "last": "Singla",
-      "type": "research-instructors"
-    }
-  ]
+  "timestamp": "2020-12-19T08:13:49.355401",
+  "data": []
 }
