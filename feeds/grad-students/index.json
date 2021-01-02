@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2020-12-19T08:16:38.238740",
+  "timestamp": "2021-01-02T08:22:11.217388",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -75,7 +75,6 @@
       "homepage": "https://www.cs.princeton.edu/~sa8",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3152&thumb=",
       "netid": "sa8",
-      "campus-email": "sapostolakis@princeton.edu",
       "first": "Sotirios",
       "last": "Apostolakis",
       "type": "grad-students",
@@ -402,6 +401,7 @@
       "name": "Qingchen Dang",
       "advisers": "Ben Raphael",
       "netid": "qdang",
+      "campus-email": "qdang@princeton.edu",
       "first": "Qingchen",
       "last": "Dang",
       "type": "grad-students"
@@ -841,6 +841,7 @@
       "name": "Leila Islam",
       "advisers": "Ryan Adams",
       "netid": "lislam",
+      "campus-email": "lislam@princeton.edu",
       "first": "Leila",
       "last": "Islam",
       "type": "grad-students"
@@ -910,6 +911,7 @@
       "name": "Sayash Kapoor",
       "advisers": "Arvind Narayanan",
       "netid": "sayashk",
+      "campus-email": "sayashk@princeton.edu",
       "first": "Sayash",
       "last": "Kapoor",
       "type": "grad-students"
@@ -1235,7 +1237,7 @@
       "email": "runzel@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Runze Liu",
-      "advisers": "Runze Liu",
+      "advisers": "J\u00e9r\u00e9mie Lumbroso",
       "netid": "runzel",
       "campus-email": "runzel@princeton.edu",
       "first": "Runze",
@@ -1735,6 +1737,7 @@
       "name": "Abhishek Panigrahi",
       "advisers": "Elad Hazan",
       "netid": "ap34",
+      "campus-email": "ap34@princeton.edu",
       "first": "Abhishek",
       "last": "Panigrahi",
       "type": "grad-students"
@@ -2507,6 +2510,7 @@
       "name": "Alexander Wettig",
       "advisers": "Danqi Chen",
       "netid": "awettig",
+      "campus-email": "awettig@princeton.edu",
       "first": "Alexander",
       "last": "Wettig",
       "type": "grad-students"
@@ -2756,6 +2760,7 @@
       "name": "Yurong Zhuang",
       "advisers": "Ben Raphael",
       "netid": "yzhuang",
+      "campus-email": "yzhuang@princeton.edu",
       "first": "Yurong",
       "last": "Zhuang",
       "type": "grad-students"
