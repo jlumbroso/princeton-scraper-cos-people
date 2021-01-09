@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-01-02T08:19:17.736346",
+  "timestamp": "2021-01-09T08:26:20.989758",
   "data": [
     {
       "email": "jrc@cs.princeton.edu",
@@ -49,7 +49,7 @@
       "email": "scott@cs.princeton.edu",
       "office": "101A Computer Science",
       "degree": "Ph.D., Princeton University, 2003",
-      "title": "Senior Manager, Computing Facilities; Lecturer, Fall 2020",
+      "title": "Senior Manager, Computing Facilities; Lecturer, Spring 2021",
       "name": "Scott Karlin",
       "research-interests": "Networked Systems, Operating Systems, Hardware/Software Interfaces",
       "homepage": "https://www.cs.princeton.edu/~scott",

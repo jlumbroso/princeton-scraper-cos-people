@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-01-02T08:18:43.000416",
+  "timestamp": "2021-01-09T08:25:44.336649",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -65,6 +65,7 @@
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5&thumb=",
       "netid": "august",
       "campus-email": "august@princeton.edu",
+      "leave": true,
       "first": "David",
       "last": "August",
       "type": "faculty",
@@ -278,7 +279,6 @@
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=13&thumb=",
       "netid": "felten",
       "campus-email": "felten@princeton.edu",
-      "leave": true,
       "first": "Edward",
       "last": "Felten",
       "type": "faculty",
@@ -468,7 +468,7 @@
       "email": "scott@cs.princeton.edu",
       "office": "101A Computer Science",
       "degree": "Ph.D., Princeton University, 2003",
-      "title": "Senior Manager, Computing Facilities; Lecturer, Fall 2020",
+      "title": "Senior Manager, Computing Facilities; Lecturer, Spring 2021",
       "name": "Scott Karlin",
       "research-interests": "Networked Systems, Operating Systems, Hardware/Software Interfaces",
       "homepage": "https://www.cs.princeton.edu/~scott",
@@ -700,6 +700,7 @@
       "degree": "Ph.D., University of California, San Diego, 2019",
       "title": "Lecturer",
       "name": "Soohyun Nam Liao",
+      "homepage": "https://www.cs.princeton.edu/~soohyunl",
       "profile-url": "https://www.cs.princeton.edu/people/profile/soohyunl",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5186&thumb=",
       "netid": "soohyunl",
@@ -916,7 +917,6 @@
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=28&thumb=",
       "netid": "rs",
       "campus-email": "rs@princeton.edu",
-      "leave": true,
       "first": "Robert",
       "last": "Sedgewick",
       "type": "faculty",
