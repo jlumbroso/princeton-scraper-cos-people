@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-01-09T08:25:44.336649",
+  "timestamp": "2021-01-16T08:35:07.739451",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -434,7 +434,7 @@
       "email": "kylej@cs.princeton.edu",
       "office": "306 Computer Science",
       "degree": "Ph.D., Massachusetts Institute of Technology, 2008",
-      "title": "Associate Professor",
+      "title": "Professor",
       "name": "Kyle Jamieson",
       "research-interests": "Networking, Wireless Systems, Internet of Things",
       "homepage": "https://www.cs.princeton.edu/~kylej",
@@ -797,15 +797,15 @@
       "office": "245 Carl Icahn Lab",
       "degree": "Ph.D., Princeton University, 2014",
       "title": "Assistant Professor",
-      "name": "Yuri Pritykin\n(appointment starts January 16, 2021)",
+      "name": "Yuri Pritykin",
       "research-interests": "Computational biology, functional genomics, single-cell technologies, regulation of gene expression, immunology, cancer",
       "homepage": "https://www.cs.princeton.edu/~pritykin",
       "profile-url": "https://www.cs.princeton.edu/people/profile/pritykin",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=141&thumb=",
       "netid": "pritykin",
       "campus-email": "pritykin@princeton.edu",
-      "first": "Yuri Pritykin (appointment starts January 16,",
-      "last": "2021)",
+      "first": "Yuri",
+      "last": "Pritykin",
       "type": "faculty",
       "image": "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"
     },

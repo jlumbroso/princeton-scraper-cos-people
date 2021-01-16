@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-01-09T08:26:14.948429",
+  "timestamp": "2021-01-16T08:35:38.335911",
   "data": [
     {
       "email": "sb38@cs.princeton.edu",
@@ -200,11 +200,11 @@
       "email": "ps6998@cs.princeton.edu",
       "degree": "Ph.D., University of Montpellier, France, 2020",
       "title": "Postdoctoral Research Associate",
-      "name": "Pijus Simonaitis      \n      \n              (appointment starts January 11, 2021)",
+      "name": "Pijus Simonaitis",
       "netid": "ps6998",
       "campus-email": "ps6998@princeton.edu",
-      "first": "Pijus Simonaitis (appointment starts January 11,",
-      "last": "2021)",
+      "first": "Pijus",
+      "last": "Simonaitis",
       "type": "researchers"
     },
     {
