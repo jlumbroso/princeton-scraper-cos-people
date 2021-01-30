@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-01-23T08:53:35.350261",
+  "timestamp": "2021-01-30T08:14:30.069557",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -93,16 +93,6 @@
       "campus-email": "ngotsis@princeton.edu",
       "first": "Nicki",
       "last": "Mahler",
-      "type": "admin-staff"
-    },
-    {
-      "email": "jtm7@cs.princeton.edu",
-      "title": "Assistant Grants Manager",
-      "name": "Josie Melendez",
-      "netid": "jtm7",
-      "campus-email": "jtm7@princeton.edu",
-      "first": "Josie",
-      "last": "Melendez",
       "type": "admin-staff"
     },
     {
