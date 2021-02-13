@@ -1,7 +1,18 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-02-06T08:13:19.968974",
+  "timestamp": "2021-02-13T08:13:58.319625",
   "data": [
+    {
+      "email": "bjarnold@cs.princeton.edu",
+      "degree": "Ph.D., Harvard University, 2015",
+      "title": "Professional Specialist",
+      "name": "Brian Arnold",
+      "netid": "bjarnold",
+      "campus-email": "bjarnold@princeton.edu",
+      "first": "Brian",
+      "last": "Arnold",
+      "type": "researchers"
+    },
     {
       "email": "sb38@cs.princeton.edu",
       "degree": "Ph.D., Korea Advanced Institute of Science and Technology, 2019",
