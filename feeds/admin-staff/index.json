@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-02-13T08:14:11.882604",
+  "timestamp": "2021-02-20T08:13:39.355666",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -33,6 +33,15 @@
       "campus-email": "pdeloref@princeton.edu",
       "first": "Pamela",
       "last": "DelOrefice",
+      "type": "admin-staff"
+    },
+    {
+      "email": "(&commatcs.princeton.edu)",
+      "title": "Temporary Graduate Office Administrator",
+      "name": "Judith Farquer      \n      \n              (appointment starts March 1, 2021)",
+      "netid": "(&commatcs.princeton.edu)",
+      "first": "Judith Farquer (appointment starts March 1,",
+      "last": "2021)",
       "type": "admin-staff"
     },
     {
