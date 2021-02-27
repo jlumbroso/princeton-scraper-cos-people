@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-02-20T08:16:25.244153",
+  "timestamp": "2021-02-27T08:16:42.873167",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -667,11 +667,11 @@
     {
       "email": "hguha@cs.princeton.edu",
       "title": "Graduate Student",
-      "name": "Hirish Guha",
+      "name": "Hirsh Guha",
       "advisers": "Ben Raphael",
       "netid": "hguha",
       "campus-email": "hguha@princeton.edu",
-      "first": "Hirish",
+      "first": "Hirsh",
       "last": "Guha",
       "type": "grad-students"
     },
