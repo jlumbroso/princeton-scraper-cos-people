@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-03-06T08:13:55.513677",
+  "timestamp": "2021-03-13T08:13:53.550240",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -296,8 +296,10 @@
     {
       "email": "etureci@cs.princeton.edu",
       "office": "212 Computer Science",
-      "title": "Research Software Engineer",
+      "degree": "Ph.D., Cornell University, 2005",
+      "title": "Associate Research Scholar",
       "name": "Esin Tureci",
+      "research-interests": "Heterogenous parallelism; Correctness and Security Verification; Quantum Computing; Technology Policy.",
       "netid": "etureci",
       "campus-email": "esin.tureci@princeton.edu",
       "first": "Esin",

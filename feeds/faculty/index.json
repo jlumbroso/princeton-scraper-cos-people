@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-03-06T08:13:24.500318",
+  "timestamp": "2021-03-13T08:13:22.217995",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -671,7 +671,6 @@
       "profile-url": "https://www.cs.princeton.edu/people/profile/am4320",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5773&thumb=",
       "netid": "am4320",
-      "campus-email": "andresmh@princeton.edu",
       "first": "Andr\u00e9s Monroy-Hern\u00e1ndez (appointment starts August 1,",
       "last": "2021)",
       "type": "faculty",
