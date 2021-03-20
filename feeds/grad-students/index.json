@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-03-13T08:16:55.944167",
+  "timestamp": "2021-03-20T08:17:16.187383",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1832,16 +1832,6 @@
       "advisers": "Olga Russakovsky",
       "netid": "vr23",
       "campus-email": "vr23@princeton.edu",
-      "first": "Vikram",
-      "last": "Ramaswamy",
-      "type": "grad-students"
-    },
-    {
-      "email": "vidhyar@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Vikram Ramaswamy",
-      "advisers": "Olga Russakovsky",
-      "netid": "vidhyar",
       "first": "Vikram",
       "last": "Ramaswamy",
       "type": "grad-students"
