@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-03-27T08:09:47.384780",
+  "timestamp": "2021-04-03T08:11:18.705391",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -105,7 +105,7 @@
       "title": "Visiting Postdoctoral Research Associate",
       "name": "Jinhyuk Lee",
       "netid": "jl5167",
-      "campus-email": "jl5167@princeton.edu",
+      "campus-email": "jinhyuklee@princeton.edu",
       "first": "Jinhyuk",
       "last": "Lee",
       "type": "researchers"
@@ -166,17 +166,6 @@
       "campus-email": "jltp@princeton.edu",
       "first": "John",
       "last": "Peebles",
-      "type": "researchers"
-    },
-    {
-      "email": "yaop@cs.princeton.edu",
-      "office": "101B Computer Science",
-      "degree": "Ph.D., Xidian University, 2012",
-      "title": "Visiting Fellow",
-      "name": "Yao Peng",
-      "netid": "yaop",
-      "first": "Yao",
-      "last": "Peng",
       "type": "researchers"
     },
     {
