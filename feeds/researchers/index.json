@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-04-10T08:10:40.563862",
+  "timestamp": "2021-04-17T08:09:22.300053",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -22,6 +22,17 @@
       "campus-email": "s.baek@princeton.edu",
       "first": "Seung-Hwan",
       "last": "Baek",
+      "type": "researchers"
+    },
+    {
+      "email": "mb4257@cs.princeton.edu",
+      "degree": "Ph.D., University of Ulm, Germany, 2021",
+      "title": "Postdoctoral Research Associate",
+      "name": "Mario Bijelic      \n      \n              (appointment starts June 1, 2021)",
+      "netid": "mb4257",
+      "campus-email": "mario.bijelic@princeton.edu",
+      "first": "Mario Bijelic (appointment starts June 1,",
+      "last": "2021)",
       "type": "researchers"
     },
     {
@@ -105,7 +116,7 @@
       "title": "Visiting Postdoctoral Research Associate",
       "name": "Jinhyuk Lee",
       "netid": "jl5167",
-      "campus-email": "jinhyuklee@princeton.edu",
+      "campus-email": "jl5167@princeton.edu",
       "first": "Jinhyuk",
       "last": "Lee",
       "type": "researchers"
