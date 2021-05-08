@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-05-01T08:08:32.571865",
+  "timestamp": "2021-05-08T08:08:59.978261",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -750,6 +750,7 @@
       "title": "Assistant Professor",
       "name": "Ravi Netravali\n(appointment starts July 1, 2021)",
       "research-interests": "Systems, networking, distributed systems",
+      "homepage": "https://www.cs.princeton.edu/~ravian",
       "profile-url": "https://www.cs.princeton.edu/people/profile/ravian",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5582&thumb=",
       "netid": "ravian",
