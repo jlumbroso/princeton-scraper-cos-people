@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-05-22T08:15:35.899145",
+  "timestamp": "2021-05-29T08:39:01.109447",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1118,7 +1118,6 @@
       "advisers": "Andrew Appel",
       "homepage": "https://www.cs.princeton.edu/~johnli",
       "netid": "johnli",
-      "campus-email": "johnli@princeton.edu",
       "first": "John",
       "last": "Li",
       "type": "grad-students"
@@ -1650,7 +1649,6 @@
       "research-areas": "Systems",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3912&thumb=",
       "netid": "andrewor",
-      "campus-email": "andrewor@princeton.edu",
       "first": "Andrew",
       "last": "Or",
       "type": "grad-students",
@@ -1673,7 +1671,6 @@
       "name": "Johan Ospina",
       "advisers": "Adam Finkelstein",
       "netid": "jospina",
-      "campus-email": "johanos@princeton.edu",
       "first": "Johan",
       "last": "Ospina",
       "type": "grad-students"
@@ -1881,7 +1878,6 @@
       "homepage": "https://www.cs.princeton.edu/~ls24",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4589&thumb=",
       "netid": "ls24",
-      "campus-email": "lucas.salvador@princeton.edu",
       "first": "Lucas",
       "last": "Salvador",
       "type": "grad-students",
@@ -1905,7 +1901,6 @@
       "advisers": "Ben Raphael",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5182&thumb=",
       "netid": "cds3",
-      "campus-email": "cds3@princeton.edu",
       "first": "Christopher",
       "last": "Sciavolino",
       "type": "grad-students",
@@ -2389,7 +2384,6 @@
       "advisers": "Ben Raphael",
       "homepage": "https://www.cs.princeton.edu/~dcw3",
       "netid": "dcw3",
-      "campus-email": "dcw3@princeton.edu",
       "first": "Daniel",
       "last": "Wang",
       "type": "grad-students"
