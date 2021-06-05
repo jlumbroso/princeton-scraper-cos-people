@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-05-29T08:39:01.109447",
+  "timestamp": "2021-06-05T08:25:05.787722",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1636,7 +1636,6 @@
       "name": "Victor Ongkowijaya",
       "advisers": "Jonathan Mayer",
       "netid": "vo6",
-      "campus-email": "victwj@princeton.edu",
       "first": "Victor",
       "last": "Ongkowijaya",
       "type": "grad-students"
@@ -2452,7 +2451,6 @@
       "research-areas": "Programming Languages / Compilers",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3918&thumb=",
       "netid": "mzweaver",
-      "campus-email": "mzw@princeton.edu",
       "first": "Matthew",
       "last": "Weaver",
       "type": "grad-students",
@@ -2629,7 +2627,6 @@
       "research-areas": "Graphics / Vision / Human-Computer Interaction",
       "homepage": "https://www.cs.princeton.edu/~felixy",
       "netid": "felixy",
-      "campus-email": "felixy@princeton.edu",
       "first": "Felix",
       "last": "Yu",
       "type": "grad-students"

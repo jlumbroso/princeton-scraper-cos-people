@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-05-29T08:36:04.897764",
+  "timestamp": "2021-06-05T08:22:04.678764",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -31,11 +31,11 @@
       "email": "mb4257@cs.princeton.edu",
       "degree": "Ph.D., University of Ulm, Germany, 2021",
       "title": "Postdoctoral Research Associate",
-      "name": "Mario Bijelic      \n      \n              (appointment starts June 1, 2021)",
+      "name": "Mario Bijelic",
       "netid": "mb4257",
       "campus-email": "mario.bijelic@princeton.edu",
-      "first": "Mario Bijelic (appointment starts June 1,",
-      "last": "2021)",
+      "first": "Mario",
+      "last": "Bijelic",
       "type": "researchers"
     },
     {
@@ -169,6 +169,17 @@
       "campus-email": "congma@princeton.edu",
       "first": "Cong",
       "last": "Ma",
+      "type": "researchers"
+    },
+    {
+      "email": "om1100@cs.princeton.edu",
+      "degree": "Ph.D., University of Colorado Boulder, 2019",
+      "title": "Postdoctoral Research Associate",
+      "name": "Oliver Michel      \n      \n              (appointment starts September 1, 2021)",
+      "netid": "om1100",
+      "campus-email": "om1100@princeton.edu",
+      "first": "Oliver Michel (appointment starts September 1,",
+      "last": "2021)",
       "type": "researchers"
     },
     {
@@ -332,6 +343,17 @@
       "campus-email": "shengyiw@princeton.edu",
       "first": "Shengyi",
       "last": "Wang",
+      "type": "researchers"
+    },
+    {
+      "email": "yw5952@cs.princeton.edu",
+      "degree": "Ph.D., University of Technology Sydney, 2021",
+      "title": "Postdoctoral Research Associate",
+      "name": "Yu Wu      \n      \n              (appointment starts September 1, 2021)",
+      "netid": "yw5952",
+      "campus-email": "yw5952@princeton.edu",
+      "first": "Yu Wu (appointment starts September 1,",
+      "last": "2021)",
       "type": "researchers"
     },
     {
