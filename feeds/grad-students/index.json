@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-06-05T08:25:05.787722",
+  "timestamp": "2021-06-12T08:14:30.850297",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -222,7 +222,6 @@
       "advisers": "Karthik Narasimhan",
       "research-areas": "Natural Language Processing",
       "netid": "whchang",
-      "campus-email": "whchang@princeton.edu",
       "first": "Willie Huanwei",
       "last": "Chang",
       "type": "grad-students"
@@ -684,7 +683,6 @@
       "homepage": "https://www.cs.princeton.edu/~gwg3",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3904&thumb=",
       "netid": "gwg3",
-      "campus-email": "ggundersen@princeton.edu",
       "first": "Gregory",
       "last": "Gundersen",
       "type": "grad-students",
