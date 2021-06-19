@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-06-12T08:14:30.850297",
+  "timestamp": "2021-06-19T08:17:16.476254",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -825,6 +825,7 @@
       "name": "Leila Islam",
       "advisers": "Ryan Adams",
       "netid": "lislam",
+      "campus-email": "lislam@princeton.edu",
       "first": "Leila",
       "last": "Islam",
       "type": "grad-students"
@@ -1937,7 +1938,6 @@
       "name": "Rushi Shah",
       "advisers": "Jonathan Mayer",
       "netid": "rushis",
-      "campus-email": "rushis@princeton.edu",
       "first": "Rushi",
       "last": "Shah",
       "type": "grad-students"
@@ -2087,7 +2087,6 @@
       "advisers": "Amit Levy",
       "homepage": "https://www.cs.princeton.edu/~pisong",
       "netid": "pisong",
-      "campus-email": "pisong@princeton.edu",
       "first": "Pi",
       "last": "Songkuntham",
       "type": "grad-students"
@@ -2472,6 +2471,7 @@
       "name": "Alexander Wettig",
       "advisers": "Danqi Chen",
       "netid": "awettig",
+      "campus-email": "awettig@princeton.edu",
       "first": "Alexander",
       "last": "Wettig",
       "type": "grad-students"
