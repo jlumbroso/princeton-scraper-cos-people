@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-06-19T08:10:21.250358",
+  "timestamp": "2021-06-26T08:08:27.957377",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -374,6 +374,7 @@
       "degree": "Ph.D., Stanford University, 2017",
       "title": "Associate Research Scholar",
       "name": "Huacheng Yu",
+      "homepage": "https://www.cs.princeton.edu/~hy2",
       "netid": "hy2",
       "campus-email": "h.yu@princeton.edu",
       "first": "Huacheng",

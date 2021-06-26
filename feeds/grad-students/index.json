@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-06-19T08:17:16.476254",
+  "timestamp": "2021-06-26T08:11:26.576847",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1283,13 +1283,13 @@
     {
       "email": "el24@cs.princeton.edu",
       "title": "Graduate Student",
-      "name": "Elena Lucherini",
+      "name": "Eli Lucherini",
       "advisers": "Arvind Narayanan",
       "research-areas": "Security & Privacy",
       "homepage": "https://www.cs.princeton.edu/~el24",
       "netid": "el24",
       "campus-email": "elucherini@princeton.edu",
-      "first": "Elena",
+      "first": "Eli",
       "last": "Lucherini",
       "type": "grad-students"
     },
