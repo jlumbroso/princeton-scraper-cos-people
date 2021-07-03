@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-06-26T08:11:26.576847",
+  "timestamp": "2021-07-03T08:13:47.034596",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1236,7 +1236,6 @@
       "homepage": "https://www.cs.princeton.edu/~sixuel",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4298&thumb=",
       "netid": "sixuel",
-      "campus-email": "sixuel@princeton.edu",
       "first": "Sixue",
       "last": "Liu",
       "type": "grad-students",
@@ -1560,7 +1559,6 @@
       "advisers": "David August",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2656&thumb=",
       "netid": "nagendra",
-      "campus-email": "nagendra@princeton.edu",
       "first": "Nayana",
       "last": "Nagendra",
       "type": "grad-students",
@@ -1913,7 +1911,6 @@
       "homepage": "https://www.cs.princeton.edu/~aseff",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3158&thumb=",
       "netid": "aseff",
-      "campus-email": "aseff@princeton.edu",
       "first": "Ari",
       "last": "Seff",
       "type": "grad-students",
@@ -2343,7 +2340,6 @@
       "advisers": "Ryan Adams",
       "homepage": "https://www.cs.princeton.edu/~abeatson",
       "netid": "abeatson",
-      "campus-email": "abeatson@princeton.edu",
       "first": "Alexander Upjohn",
       "last": "Beatson",
       "type": "grad-students"

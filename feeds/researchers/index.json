@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-06-26T08:08:27.957377",
+  "timestamp": "2021-07-03T08:09:31.877202",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -215,7 +215,6 @@
       "homepage": "https://www.cs.princeton.edu/~pschmitt",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4310&thumb=",
       "netid": "pschmitt",
-      "campus-email": "pschmitt@princeton.edu",
       "first": "Paul",
       "last": "Schmitt",
       "type": "researchers",
@@ -230,18 +229,6 @@
       "campus-email": "pijus.simonaitis@princeton.edu",
       "first": "Pijus",
       "last": "Simonaitis",
-      "type": "researchers"
-    },
-    {
-      "email": "singla@cs.princeton.edu",
-      "office": "318C Computer Science",
-      "degree": "Ph.D., Carnegie Mellon University, 2018",
-      "title": "Instructor",
-      "name": "Sahil Singla",
-      "netid": "singla",
-      "campus-email": "s.singla@princeton.edu",
-      "first": "Sahil",
-      "last": "Singla",
       "type": "researchers"
     },
     {
@@ -366,19 +353,6 @@
       "campus-email": "yaxiongx@princeton.edu",
       "first": "Yaxiong",
       "last": "Xie",
-      "type": "researchers"
-    },
-    {
-      "email": "hy2@cs.princeton.edu",
-      "office": "318C Computer Science",
-      "degree": "Ph.D., Stanford University, 2017",
-      "title": "Associate Research Scholar",
-      "name": "Huacheng Yu",
-      "homepage": "https://www.cs.princeton.edu/~hy2",
-      "netid": "hy2",
-      "campus-email": "h.yu@princeton.edu",
-      "first": "Huacheng",
-      "last": "Yu",
       "type": "researchers"
     },
     {
