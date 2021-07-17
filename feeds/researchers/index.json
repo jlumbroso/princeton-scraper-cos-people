@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-07-10T08:08:32.403343",
+  "timestamp": "2021-07-17T08:07:48.211477",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -25,6 +25,15 @@
       "campus-email": "s.baek@princeton.edu",
       "first": "Seung-Hwan",
       "last": "Baek",
+      "type": "researchers"
+    },
+    {
+      "email": "(&commatcs.princeton.edu)",
+      "title": "Visiting Postdoctoral Research Associate",
+      "name": "Yuval Bahat      \n      \n              (appointment starts September 1, 2021)",
+      "netid": "(&commatcs.princeton.edu)",
+      "first": "Yuval Bahat (appointment starts September 1,",
+      "last": "2021)",
       "type": "researchers"
     },
     {

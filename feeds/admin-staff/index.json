@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-07-10T08:08:46.715845",
+  "timestamp": "2021-07-17T08:08:02.353789",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -54,6 +54,16 @@
       "campus-email": "mhornstein@princeton.edu",
       "first": "Mikki",
       "last": "Hornstein",
+      "type": "admin-staff"
+    },
+    {
+      "email": "kskaplan@cs.princeton.edu",
+      "title": "Course Assistant",
+      "name": "Kobi Kaplan",
+      "netid": "kskaplan",
+      "campus-email": "kskaplan@princeton.edu",
+      "first": "Kobi",
+      "last": "Kaplan",
       "type": "admin-staff"
     },
     {
