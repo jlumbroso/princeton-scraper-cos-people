@@ -1,9 +1,10 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-07-17T08:07:48.211477",
+  "timestamp": "2021-07-24T08:09:19.295740",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
+      "office": "312 Computer Science",
       "degree": "Ph.D., Harvard University, 2015",
       "title": "Professional Specialist",
       "name": "Brian Arnold",
@@ -28,10 +29,11 @@
       "type": "researchers"
     },
     {
-      "email": "(&commatcs.princeton.edu)",
+      "email": "yb6751@cs.princeton.edu",
       "title": "Visiting Postdoctoral Research Associate",
       "name": "Yuval Bahat      \n      \n              (appointment starts September 1, 2021)",
-      "netid": "(&commatcs.princeton.edu)",
+      "netid": "yb6751",
+      "campus-email": "yb6751@princeton.edu",
       "first": "Yuval Bahat (appointment starts September 1,",
       "last": "2021)",
       "type": "researchers"
