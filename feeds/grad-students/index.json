@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-07-24T08:13:55.521607",
+  "timestamp": "2021-07-31T08:17:12.702066",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -417,6 +417,8 @@
       "title": "Graduate Student",
       "name": "Joshua Cohen",
       "advisers": "Andrew Appel",
+      "research-areas": "Programming Languages / Compilers",
+      "homepage": "https://www.cs.princeton.edu/~jmc16",
       "netid": "jmc16",
       "campus-email": "jmc16@princeton.edu",
       "first": "Joshua",
