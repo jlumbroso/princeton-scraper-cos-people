@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-07-31T08:17:12.702066",
+  "timestamp": "2021-08-07T08:17:17.458242",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -193,7 +193,6 @@
       "advisers": "Edward Felten",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3901&thumb=",
       "netid": "bburgess",
-      "campus-email": "bburgess@princeton.edu",
       "first": "Ben",
       "last": "Burgess",
       "type": "grad-students",
@@ -242,7 +241,7 @@
       "name": "Shai Caspin",
       "advisers": "Judith Farquer",
       "netid": "sc4479",
-      "campus-email": "sc4479@princeton.edu",
+      "campus-email": "scaspin@princeton.edu",
       "first": "Shai",
       "last": "Caspin",
       "type": "grad-students"
@@ -606,7 +605,6 @@
       "name": "Shreyas Gandlur",
       "advisers": "Jonathan Mayer",
       "netid": "sgandlur",
-      "campus-email": "sgandlur@princeton.edu",
       "first": "Shreyas",
       "last": "Gandlur",
       "type": "grad-students"
@@ -925,7 +923,6 @@
       "homepage": "https://www.cs.princeton.edu/~huwei",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3905&thumb=",
       "netid": "huwei",
-      "campus-email": "huwei@princeton.edu",
       "first": "Wei",
       "last": "Hu",
       "type": "grad-students",
@@ -1040,7 +1037,6 @@
       "name": "Kartikeya Kandula",
       "advisers": "Jonathan Mayer",
       "netid": "kkandula",
-      "campus-email": "kartkand@princeton.edu",
       "first": "Kartikeya",
       "last": "Kandula",
       "type": "grad-students"
@@ -1210,7 +1206,6 @@
       "advisers": "Mark Zhandry",
       "research-areas": "Theory",
       "netid": "brk",
-      "campus-email": "brk@princeton.edu",
       "first": "Benjamin Ransom",
       "last": "Kuykendall",
       "type": "grad-students"
@@ -1400,7 +1395,6 @@
       "name": "Qipeng Liu",
       "advisers": "Mark Zhandry",
       "netid": "qipengl",
-      "campus-email": "qipengl@princeton.edu",
       "first": "Qipeng",
       "last": "Liu",
       "type": "grad-students"
@@ -1486,6 +1480,7 @@
       "advisers": "Elad Hazan",
       "research-areas": "Machine Learning",
       "netid": "zhoul",
+      "campus-email": "zhoul@princeton.edu",
       "first": "Zhou",
       "last": "Lu",
       "type": "grad-students"
@@ -1647,7 +1642,6 @@
       "homepage": "https://www.cs.princeton.edu/~themis",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2655&thumb=",
       "netid": "themis",
-      "campus-email": "themis@princeton.edu",
       "first": "Themistoklis",
       "last": "Melissaris",
       "type": "grad-students",
@@ -1714,7 +1708,6 @@
       "homepage": "https://www.cs.princeton.edu/~dm23",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3909&thumb=",
       "netid": "dm23",
-      "campus-email": "dm23@princeton.edu",
       "first": "Divyarthi",
       "last": "Mohan",
       "type": "grad-students",
@@ -2016,7 +2009,6 @@
       "advisers": "Sanjeev Arora",
       "homepage": "https://www.cs.princeton.edu/~orestisp",
       "netid": "orestisp",
-      "campus-email": "orestisp@princeton.edu",
       "first": "Orestis",
       "last": "Plevrakis",
       "type": "grad-students"
@@ -2195,7 +2187,6 @@
       "name": "Raghuvansh Saxena",
       "advisers": "Gillat Kol",
       "netid": "rrsaxena",
-      "campus-email": "rrsaxena@princeton.edu",
       "first": "Raghuvansh",
       "last": "Saxena",
       "type": "grad-students"
@@ -2864,7 +2855,6 @@
       "name": "Kaixuan Wei",
       "advisers": "Judith Farquer",
       "netid": "kw5996",
-      "campus-email": "kxwei@princeton.edu",
       "first": "Kaixuan",
       "last": "Wei",
       "type": "grad-students"
@@ -3212,7 +3202,6 @@
       "name": "Beiqi Zou",
       "advisers": "J\u00e9r\u00e9mie Lumbroso",
       "netid": "bzou",
-      "campus-email": "bzou@princeton.edu",
       "first": "Beiqi",
       "last": "Zou",
       "type": "grad-students"
