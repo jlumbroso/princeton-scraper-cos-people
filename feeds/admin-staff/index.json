@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-07T08:11:06.866986",
+  "timestamp": "2021-08-14T08:09:21.896703",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -47,7 +47,7 @@
     },
     {
       "email": "mh45@cs.princeton.edu",
-      "office": "206 Computer Science",
+      "office": "204 Computer Science",
       "title": "Independent Work Administrator",
       "name": "Mikki Hornstein",
       "netid": "mh45",
@@ -106,7 +106,7 @@
     },
     {
       "email": "ngotsis@cs.princeton.edu",
-      "office": "310 Computer Science",
+      "office": "213 Computer Science",
       "title": "Graduate Coordinator",
       "name": "Nicki Mahler",
       "netid": "ngotsis",
@@ -130,6 +130,7 @@
     },
     {
       "email": "jt8669@cs.princeton.edu",
+      "office": "226 Computer Science",
       "title": "Grants Manager",
       "name": "Jenny Tirrito",
       "netid": "jt8669",

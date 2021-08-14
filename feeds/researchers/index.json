@@ -1,10 +1,10 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-07T08:10:35.944247",
+  "timestamp": "2021-08-14T08:09:06.473489",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
-      "office": "312 Computer Science",
+      "office": "313 Computer Science",
       "degree": "Ph.D., Harvard University, 2015",
       "title": "Professional Specialist",
       "name": "Brian Arnold",
@@ -40,6 +40,7 @@
     },
     {
       "email": "mb4257@cs.princeton.edu",
+      "office": "331 Computer Science",
       "degree": "Ph.D., University of Ulm, Germany, 2021",
       "title": "Postdoctoral Research Associate",
       "name": "Mario Bijelic",
@@ -51,7 +52,7 @@
     },
     {
       "email": "zhiweid@cs.princeton.edu",
-      "office": "416 Computer Science",
+      "office": "418A Computer Science",
       "degree": "Ph.D., Simon Fraser University, 2019",
       "title": "Postdoctoral Research Associate",
       "name": "Zhiwei Deng",
@@ -79,7 +80,7 @@
     },
     {
       "email": "mho@cs.princeton.edu",
-      "office": "416 Computer Science",
+      "office": "415 Computer Science",
       "degree": "Ph.D., University of California Berkeley, 2019",
       "title": "Postdoctoral Research Associate",
       "name": "Mark Ho",
@@ -91,6 +92,7 @@
     },
     {
       "email": "fotiosi@cs.princeton.edu",
+      "office": "331 Computer Science",
       "degree": "Ph.D., University of California Berkeley, 2019",
       "title": "Postdoctoral Research Associate",
       "name": "Fotios Iliopoulos",
@@ -115,6 +117,7 @@
     },
     {
       "email": "tal3@cs.princeton.edu",
+      "office": "416 Computer Science",
       "degree": "Ph.D., University of California Berkeley, 2018",
       "title": "Postdoctoral Research Associate",
       "name": "Thomas Langlois",
@@ -137,6 +140,7 @@
     },
     {
       "email": "dl4843@cs.princeton.edu",
+      "office": "331 Computer Science",
       "degree": "Ph.D., Duke University, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "Didong Li",
@@ -172,6 +176,7 @@
     },
     {
       "email": "congma@cs.princeton.edu",
+      "office": "312 Computer Science",
       "degree": "Ph.D., Carnegie Mellon University, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "Cong Ma",
@@ -187,13 +192,14 @@
       "title": "Postdoctoral Research Associate",
       "name": "Oliver Michel      \n      \n              (appointment starts September 1, 2021)",
       "netid": "om1100",
-      "campus-email": "om1100@princeton.edu",
+      "campus-email": "omichel@princeton.edu",
       "first": "Oliver Michel (appointment starts September 1,",
       "last": "2021)",
       "type": "researchers"
     },
     {
       "email": "jltp@cs.princeton.edu",
+      "office": "331 Computer Science",
       "degree": "Ph.D., Massachusetts Institute of Technology, 2019",
       "title": "Associate Research Scholar",
       "name": "John Peebles",
@@ -205,7 +211,7 @@
     },
     {
       "email": "joshuacp@cs.princeton.edu",
-      "office": "419 Computer Science",
+      "office": "416 Computer Science",
       "degree": "Ph.D., University of California, Berkeley, 2018",
       "title": "Postdoctoral Research Associate",
       "name": "Joshua Peterson",
@@ -232,6 +238,7 @@
     },
     {
       "email": "ps6998@cs.princeton.edu",
+      "office": "312 Computer Science",
       "degree": "Ph.D., University of Montpellier, France, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "Pijus Simonaitis",
@@ -258,14 +265,13 @@
       "title": "Postdoctoral Research Associate",
       "name": "Zhao Song",
       "netid": "zhaos",
-      "campus-email": "zhaos@princeton.edu",
       "first": "Zhao",
       "last": "Song",
       "type": "researchers"
     },
     {
       "email": "kstark@cs.princeton.edu",
-      "office": "207 Computer Science",
+      "office": "216 Computer Science",
       "degree": "Ph.D., Saarland University, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "Kathrin Stark",
@@ -280,6 +286,7 @@
     },
     {
       "email": "is2961@cs.princeton.edu",
+      "office": "416 Computer Science",
       "degree": "Ph.D., University of Waterloo, 2021",
       "title": "Postdoctoral Research Associate",
       "name": "Ilia Sucholutsky",
@@ -303,7 +310,7 @@
     },
     {
       "email": "ftownes@cs.princeton.edu",
-      "office": "305 Computer Science",
+      "office": "331 Computer Science",
       "degree": "Ph.D., Harvard University, 2019",
       "title": "Postdoctoral Research Associate",
       "name": "F. William Townes",
@@ -332,7 +339,7 @@
     },
     {
       "email": "svo@cs.princeton.edu",
-      "office": "416 Computer Science",
+      "office": "415 Computer Science",
       "degree": "Ph.D., New York University, 2018",
       "title": "Postdoctoral Research Associate",
       "name": "Sebastiaan van Opheusden",
@@ -344,6 +351,7 @@
     },
     {
       "email": "shengyiw@cs.princeton.edu",
+      "office": "216 Computer Science",
       "degree": "Ph.D., National University of Singapore, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "Shengyi Wang",
@@ -355,6 +363,7 @@
     },
     {
       "email": "yw5952@cs.princeton.edu",
+      "office": "418A Computer Science",
       "degree": "Ph.D., University of Technology Sydney, 2021",
       "title": "Postdoctoral Research Associate",
       "name": "Yu Wu      \n      \n              (appointment starts September 1, 2021)",

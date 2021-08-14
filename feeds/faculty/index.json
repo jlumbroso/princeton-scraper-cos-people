@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-07T08:09:29.506982",
+  "timestamp": "2021-08-14T08:08:34.177457",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -74,7 +74,7 @@
     },
     {
       "email": "eberinge@cs.princeton.edu",
-      "office": "207 Computer Science",
+      "office": "212 Computer Science",
       "degree": "Ph.D., University of Edinburgh, 2002",
       "title": "Research Scholar",
       "name": "Lennart Beringer",
@@ -173,6 +173,7 @@
     },
     {
       "email": "ad6725@cs.princeton.edu",
+      "office": "406 Computer Science",
       "degree": "Ph.D., Columbia University, 2020",
       "title": "Assistant Professor",
       "name": "Adji Bousso Dieng      \n      \n              (appointment starts September 1, 2021)",
@@ -234,7 +235,7 @@
     },
     {
       "email": "bee@cs.princeton.edu",
-      "office": "322 Computer Science",
+      "office": "414 Computer Science",
       "degree": "Ph.D., University of California, Berkeley, 2007",
       "title": "Professor",
       "name": "Barbara Engelhardt",
@@ -366,7 +367,7 @@
     },
     {
       "email": "tomg@cs.princeton.edu",
-      "office": "405 Computer Science",
+      "office": "417 Computer Science",
       "degree": "Ph.D., Stanford University, 2005",
       "title": "Henry R. Luce Professor of Information Technology, Consciousness and Culture",
       "name": "Tom Griffiths",
@@ -649,6 +650,7 @@
     },
     {
       "email": "andresmh@cs.princeton.edu",
+      "office": "405 Computer Science",
       "degree": "Ph.D., Massachusetts Institute of Technology, 2012",
       "title": "Assistant Professor",
       "name": "Andr\u00e9s Monroy-Hern\u00e1ndez",
@@ -714,6 +716,7 @@
     },
     {
       "email": "ravian@cs.princeton.edu",
+      "office": "322 Computer Science",
       "degree": "Ph.D., Massachusetts Institute of Technology, 2018",
       "title": "Assistant Professor",
       "name": "Ravi Netravali",
@@ -812,7 +815,7 @@
     },
     {
       "email": "jrex@cs.princeton.edu",
-      "office": "222 Computer Science",
+      "office": "207 Computer Science",
       "degree": "Ph.D., University of Michigan, 1996",
       "title": "Gordon Y.S. Wu Professor of Engineering, Department Chair",
       "name": "Jennifer Rexford",
@@ -1029,7 +1032,7 @@
     },
     {
       "email": "hy2@cs.princeton.edu",
-      "office": "318C Computer Science",
+      "office": "310 Computer Science",
       "degree": "Ph.D., Stanford University, 2017",
       "title": "Assistant Professor",
       "name": "Huacheng Yu\n(appointment starts September 1, 2021)",
