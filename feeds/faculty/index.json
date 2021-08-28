@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-21T08:07:35.490265",
+  "timestamp": "2021-08-28T08:08:35.481972",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -255,9 +255,9 @@
       "email": "fellbaum@cs.princeton.edu",
       "office": "1-S-14 Green Hall",
       "degree": "Ph.D., Princeton University, 1980",
-      "title": "Lecturer",
+      "title": "Lecturer with rank of Professor",
       "name": "Christiane Fellbaum",
-      "research-interests": "Lexical semantics, the syntax-semantics interface, syntactic alternations, computational linguistics, large-scale lexical resources, idioms, ontology.\r\nHumboldt Foundation Wolfgang Paul Award, 2001; LREC Antonio Zampolli Prize, 2006.",
+      "research-interests": "Natural Language Processing, Lexical semantics, the syntax-semantics interface, syntactic alternations, computational linguistics, large-scale lexical resources, idioms, ontology.\r\nHumboldt Foundation Wolfgang Paul Award, 2001; LREC Antonio Zampolli Prize, 2006.",
       "homepage": "https://www.cs.princeton.edu/~fellbaum",
       "profile-url": "https://www.cs.princeton.edu/people/profile/fellbaum",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=57&thumb=",
@@ -303,7 +303,7 @@
     },
     {
       "email": "ruthfong@cs.princeton.edu",
-      "office": "023 Corwin Hall",
+      "office": "032 Corwin Hall",
       "degree": "Ph.D., University of Oxford, 2020",
       "title": "Lecturer",
       "name": "Ruth Fong",
@@ -736,7 +736,7 @@
       "degree": "Ph.D., Purdue University, 1985",
       "title": "Robert E. Kahn Professor, Emeritus",
       "name": "Larry Peterson",
-      "research-interests": "Networked systems, communication protocols, operating systems. \r\nMember, National Academy of Engineering, 2010; IEEE Kobayashi Computer & Communication Award, 2010;\r\nACM SIGCOMM Award, 2013; ACM Fellow, 2000; IEEE Fellow, 2009.",
+      "research-interests": "Networked systems.\r\nMember, National Academy of Engineering, 2010; IEEE Kobayashi Computer & Communication Award, 2010;\r\nACM SIGCOMM Award, 2013; ACM Fellow, 2000; IEEE Fellow, 2009.",
       "homepage": "https://www.cs.princeton.edu/~llp",
       "profile-url": "https://www.cs.princeton.edu/people/profile/llp",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=24&thumb=",

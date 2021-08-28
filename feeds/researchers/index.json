@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-21T08:08:06.936136",
+  "timestamp": "2021-08-28T08:09:19.614036",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -52,6 +52,27 @@
       "type": "researchers"
     },
     {
+      "email": "birgelee@cs.princeton.edu",
+      "office": "126 Friend Center",
+      "title": "Research Software Engineer",
+      "name": "Henry Birge-Lee",
+      "netid": "birgelee",
+      "campus-email": "birgelee@princeton.edu",
+      "first": "Henry",
+      "last": "Birge-Lee",
+      "type": "researchers"
+    },
+    {
+      "email": "pc28@cs.princeton.edu",
+      "title": "Visiting Research Scholar",
+      "name": "Praneeth Chakravarthula",
+      "netid": "pc28",
+      "campus-email": "praneethc@princeton.edu",
+      "first": "Praneeth",
+      "last": "Chakravarthula",
+      "type": "researchers"
+    },
+    {
       "email": "zhiweid@cs.princeton.edu",
       "office": "418A Computer Science",
       "degree": "Ph.D., Simon Fraser University, 2019",
@@ -92,19 +113,8 @@
       "type": "researchers"
     },
     {
-      "email": "fotiosi@cs.princeton.edu",
-      "office": "331 Computer Science",
-      "degree": "Ph.D., University of California Berkeley, 2019",
-      "title": "Postdoctoral Research Associate",
-      "name": "Fotios Iliopoulos",
-      "netid": "fotiosi",
-      "campus-email": "fotiosi@princeton.edu",
-      "first": "Fotios",
-      "last": "Iliopoulos",
-      "type": "researchers"
-    },
-    {
       "email": "hyojoonk@cs.princeton.edu",
+      "office": "126 Friend Center",
       "degree": "Ph.D., Georgia Institute of Technology, 2015",
       "title": "Associate Research Scholar",
       "name": "Hyojoon Kim",
@@ -153,16 +163,6 @@
       "type": "researchers"
     },
     {
-      "email": "xl32@cs.princeton.edu",
-      "degree": "Ph.D., Yale University, 2020",
-      "title": "Postdoctoral Research Associate",
-      "name": "Xiaoxiao Li",
-      "netid": "xl32",
-      "first": "Xiaoxiao",
-      "last": "Li",
-      "type": "researchers"
-    },
-    {
       "email": "haonanl@cs.princeton.edu",
       "office": "318B Computer Science",
       "degree": "Ph.D., University of Southern California, 2019",
@@ -190,6 +190,7 @@
     },
     {
       "email": "om1100@cs.princeton.edu",
+      "office": "126 Friend Center",
       "degree": "Ph.D., University of Colorado Boulder, 2019",
       "title": "Postdoctoral Research Associate",
       "name": "Oliver Michel      \n      \n              (appointment starts September 1, 2021)",
@@ -197,18 +198,6 @@
       "campus-email": "omichel@princeton.edu",
       "first": "Oliver Michel (appointment starts September 1,",
       "last": "2021)",
-      "type": "researchers"
-    },
-    {
-      "email": "jltp@cs.princeton.edu",
-      "office": "331 Computer Science",
-      "degree": "Ph.D., Massachusetts Institute of Technology, 2019",
-      "title": "Associate Research Scholar",
-      "name": "John Peebles",
-      "netid": "jltp",
-      "campus-email": "jltp@princeton.edu",
-      "first": "John",
-      "last": "Peebles",
       "type": "researchers"
     },
     {
@@ -221,6 +210,17 @@
       "campus-email": "joshuacp@princeton.edu",
       "first": "Joshua",
       "last": "Peterson",
+      "type": "researchers"
+    },
+    {
+      "email": "erussek@cs.princeton.edu",
+      "degree": "Ph.D., New York University, 2018",
+      "title": "Postdoctoral Research Associate",
+      "name": "Evan Russek      \n      \n              (appointment starts October 11, 2021)",
+      "netid": "erussek",
+      "campus-email": "erussek@princeton.edu",
+      "first": "Evan Russek (appointment starts October 11,",
+      "last": "2021)",
       "type": "researchers"
     },
     {
@@ -252,6 +252,7 @@
     },
     {
       "email": "sonchack@cs.princeton.edu",
+      "office": "126 Friend Center",
       "degree": "Ph.D., University of Pennsylvania, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "John Sonchack",
@@ -259,16 +260,6 @@
       "campus-email": "jsonch@princeton.edu",
       "first": "John",
       "last": "Sonchack",
-      "type": "researchers"
-    },
-    {
-      "email": "zhaos@cs.princeton.edu",
-      "degree": "Ph.D., University of Texas-Austin, 2019",
-      "title": "Postdoctoral Research Associate",
-      "name": "Zhao Song",
-      "netid": "zhaos",
-      "first": "Zhao",
-      "last": "Song",
       "type": "researchers"
     },
     {

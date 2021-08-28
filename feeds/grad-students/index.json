@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-21T08:11:09.885367",
+  "timestamp": "2021-08-28T08:13:27.621728",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -296,16 +296,6 @@
       "type": "grad-students"
     },
     {
-      "email": "jsc7@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Jeffrey Cheng",
-      "advisers": "Sebastian Seung",
-      "netid": "jsc7",
-      "first": "Jeffrey",
-      "last": "Cheng",
-      "type": "grad-students"
-    },
-    {
       "email": "uchitra@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Uthsav Rajaram Chitra",
@@ -484,16 +474,6 @@
       "type": "grad-students"
     },
     {
-      "email": "ndupoux@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Nicholas Dupoux",
-      "advisers": "J\u00e9r\u00e9mie Lumbroso",
-      "netid": "ndupoux",
-      "first": "Nicholas",
-      "last": "Dupoux",
-      "type": "grad-students"
-    },
-    {
       "email": "jduque@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Juan Duque",
@@ -550,16 +530,6 @@
       "campus-email": "dfriedman@princeton.edu",
       "first": "Dan",
       "last": "Friedman",
-      "type": "grad-students"
-    },
-    {
-      "email": "sgandlur@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Shreyas Gandlur",
-      "advisers": "Jonathan Mayer",
-      "netid": "sgandlur",
-      "first": "Shreyas",
-      "last": "Gandlur",
       "type": "grad-students"
     },
     {
@@ -702,16 +672,6 @@
       "campus-email": "ag5008@princeton.edu",
       "first": "Alex",
       "last": "Guerra",
-      "type": "grad-students"
-    },
-    {
-      "email": "hguha@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Hirsh Guha",
-      "advisers": "Andrew Appel",
-      "netid": "hguha",
-      "first": "Hirsh",
-      "last": "Guha",
       "type": "grad-students"
     },
     {
@@ -958,16 +918,6 @@
       "campus-email": "akalaba@princeton.edu",
       "first": "Anja",
       "last": "Kalaba",
-      "type": "grad-students"
-    },
-    {
-      "email": "kkandula@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Kartikeya Kandula",
-      "advisers": "Jonathan Mayer",
-      "netid": "kkandula",
-      "first": "Kartikeya",
-      "last": "Kandula",
       "type": "grad-students"
     },
     {
@@ -1491,16 +1441,6 @@
       "type": "grad-students"
     },
     {
-      "email": "amandyam@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Aishwarya Mandyam",
-      "advisers": "Barbara Engelhardt",
-      "netid": "amandyam",
-      "first": "Aishwarya",
-      "last": "Mandyam",
-      "type": "grad-students"
-    },
-    {
       "email": "amanocha@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Aninda Manocha",
@@ -1943,11 +1883,12 @@
       "type": "grad-students"
     },
     {
-      "email": "(&commatcs.princeton.edu)",
+      "email": "srane@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Sunayana Rane",
       "advisers": "Olga Russakovsky",
-      "netid": "(&commatcs.princeton.edu)",
+      "netid": "srane",
+      "campus-email": "srane@princeton.edu",
       "first": "Sunayana",
       "last": "Rane",
       "type": "grad-students"
@@ -2943,7 +2884,7 @@
       "name": "Yiming Zuo",
       "advisers": "Jia Deng",
       "netid": "yz7608",
-      "campus-email": "yz7608@princeton.edu",
+      "campus-email": "zuoym@princeton.edu",
       "first": "Yiming",
       "last": "Zuo",
       "type": "grad-students"
