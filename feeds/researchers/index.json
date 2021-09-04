@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-28T08:09:19.614036",
+  "timestamp": "2021-09-04T08:09:21.587116",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -32,11 +32,11 @@
     {
       "email": "yb6751@cs.princeton.edu",
       "title": "Visiting Postdoctoral Research Associate",
-      "name": "Yuval Bahat      \n      \n              (appointment starts September 1, 2021)",
+      "name": "Yuval Bahat",
       "netid": "yb6751",
       "campus-email": "yb6751@princeton.edu",
-      "first": "Yuval Bahat (appointment starts September 1,",
-      "last": "2021)",
+      "first": "Yuval",
+      "last": "Bahat",
       "type": "researchers"
     },
     {
@@ -82,6 +82,18 @@
       "campus-email": "zhiweid@princeton.edu",
       "first": "Zhiwei",
       "last": "Deng",
+      "type": "researchers"
+    },
+    {
+      "email": "md8808@cs.princeton.edu",
+      "office": "331 Computer Science",
+      "degree": "Ph.D., University of Maryland, 2021",
+      "title": "Postdoctoral Research Associate",
+      "name": "Mahsa Derakhshan",
+      "netid": "md8808",
+      "campus-email": "md8808@princeton.edu",
+      "first": "Mahsa",
+      "last": "Derakhshan",
       "type": "researchers"
     },
     {
@@ -193,10 +205,22 @@
       "office": "126 Friend Center",
       "degree": "Ph.D., University of Colorado Boulder, 2019",
       "title": "Postdoctoral Research Associate",
-      "name": "Oliver Michel      \n      \n              (appointment starts September 1, 2021)",
+      "name": "Oliver Michel",
       "netid": "om1100",
       "campus-email": "omichel@princeton.edu",
-      "first": "Oliver Michel (appointment starts September 1,",
+      "first": "Oliver",
+      "last": "Michel",
+      "type": "researchers"
+    },
+    {
+      "email": "mm3778@cs.princeton.edu",
+      "office": "418B Computer Science",
+      "degree": "Ph.D., University of California, Berkeley, 2020",
+      "title": "Postdoctoral Research Associate",
+      "name": "Seyed Mehran Mirramezani      \n      \n              (appointment starts September 15, 2021)",
+      "netid": "mm3778",
+      "campus-email": "mm3778@princeton.edu",
+      "first": "Seyed Mehran Mirramezani (appointment starts September 15,",
       "last": "2021)",
       "type": "researchers"
     },
@@ -359,11 +383,11 @@
       "office": "418A Computer Science",
       "degree": "Ph.D., University of Technology Sydney, 2021",
       "title": "Postdoctoral Research Associate",
-      "name": "Yu Wu      \n      \n              (appointment starts September 1, 2021)",
+      "name": "Yu Wu",
       "netid": "yw5952",
       "campus-email": "yw5952@princeton.edu",
-      "first": "Yu Wu (appointment starts September 1,",
-      "last": "2021)",
+      "first": "Yu",
+      "last": "Wu",
       "type": "researchers"
     },
     {

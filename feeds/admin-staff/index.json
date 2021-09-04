@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-08-28T08:09:40.550965",
+  "timestamp": "2021-09-04T08:09:36.583329",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -28,16 +28,16 @@
       "email": "mestepp@cs.princeton.edu",
       "office": "205 Computer Science",
       "title": "Temporary Business Manager",
-      "name": "Michael Estepp      \n      \n              (appointment starts September 2, 2021)",
+      "name": "Michael Estepp",
       "netid": "mestepp",
       "campus-email": "mestepp@princeton.edu",
-      "first": "Michael Estepp (appointment starts September 2,",
-      "last": "2021)",
+      "first": "Michael",
+      "last": "Estepp",
       "type": "admin-staff"
     },
     {
       "email": "jfarquer@cs.princeton.edu",
-      "office": "213 Computer Science",
+      "office": "209 Computer Science",
       "title": "Temporary Graduate Office Administrator",
       "name": "Judith Farquer",
       "netid": "jfarquer",
