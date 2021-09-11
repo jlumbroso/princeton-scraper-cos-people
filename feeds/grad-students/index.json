@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-09-04T08:12:17.704355",
+  "timestamp": "2021-09-11T08:11:07.972925",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -145,7 +145,7 @@
       "email": "gb5435@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Gianluca Bencomo",
-      "advisers": "Judith Farquer",
+      "advisers": "Tom Griffiths",
       "netid": "gb5435",
       "campus-email": "gb5435@princeton.edu",
       "first": "Gianluca",
@@ -892,7 +892,7 @@
       "name": "Nicolaas Kaashoek",
       "advisers": "Wyatt Lloyd",
       "netid": "nk5635",
-      "campus-email": "nk5635@princeton.edu",
+      "campus-email": "nicolaas@princeton.edu",
       "first": "Nicolaas",
       "last": "Kaashoek",
       "type": "grad-students"
@@ -1296,7 +1296,7 @@
       "email": "xl2493@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Xinran Liu",
-      "advisers": "Judith Farquer",
+      "advisers": "Andr\u00e9s Monroy-Hern\u00e1ndez",
       "netid": "xl2493",
       "campus-email": "xl2493@princeton.edu",
       "first": "Xinran",
@@ -2255,7 +2255,7 @@
       "email": "bt4755@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Brian Max Tchouambe",
-      "advisers": "Judith Farquer",
+      "advisers": "Jia Deng",
       "netid": "bt4755",
       "campus-email": "bt4755@princeton.edu",
       "first": "Brian Max",
