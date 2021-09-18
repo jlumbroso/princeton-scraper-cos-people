@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-09-11T08:08:24.334373",
+  "timestamp": "2021-09-18T08:09:37.155452",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -15,7 +15,7 @@
     },
     {
       "email": "lcerrito@cs.princeton.edu",
-      "office": "204 Computer Science",
+      "office": "226 Computer Science",
       "title": "Undergraduate Administrator",
       "name": "Laura Cerrito",
       "netid": "lcerrito",
@@ -73,7 +73,6 @@
       "office": "206 Computer Science",
       "title": "Secretary",
       "name": "Mitra Kelly",
-      "homepage": "https://www.cs.princeton.edu/~mkelly",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=41&thumb=",
       "netid": "mkelly",
       "campus-email": "mkelly@princeton.edu",
