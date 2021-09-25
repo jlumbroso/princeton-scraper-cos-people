@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-09-18T08:12:33.900000",
+  "timestamp": "2021-09-25T08:12:00.085010",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -537,6 +537,8 @@
       "title": "Graduate Student",
       "name": "Tianyu Gao",
       "advisers": "Danqi Chen",
+      "research-areas": "Natural Language Processing",
+      "homepage": "https://www.cs.princeton.edu/~tianyug",
       "netid": "tianyug",
       "campus-email": "tianyug@princeton.edu",
       "first": "Tianyu",
@@ -2533,6 +2535,8 @@
       "title": "Graduate Student",
       "name": "Alexander Wettig",
       "advisers": "Danqi Chen",
+      "research-areas": "Natural Language Processing",
+      "homepage": "https://www.cs.princeton.edu/~awettig",
       "netid": "awettig",
       "campus-email": "awettig@princeton.edu",
       "first": "Alexander",

@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-09-18T08:08:45.792759",
+  "timestamp": "2021-09-25T08:08:18.429079",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -90,7 +90,7 @@
     },
     {
       "email": "jbrassil@cs.princeton.edu",
-      "office": "313 Sherrerd Hall",
+      "office": "103 221 Nassau Street",
       "degree": "Ph.D., University of California, San Diego, 1991",
       "title": "Senior Research Scholar",
       "name": "Jack Brassil",
@@ -450,7 +450,7 @@
     },
     {
       "email": "ak18@cs.princeton.edu",
-      "office": "105 221 Nassau Street",
+      "office": "106 221 Nassau Street",
       "degree": "Ph.D., University of Massachusetts, 1996",
       "title": "Lecturer",
       "name": "Alan Kaplan",

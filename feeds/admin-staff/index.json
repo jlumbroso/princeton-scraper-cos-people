@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-09-18T08:09:37.155452",
+  "timestamp": "2021-09-25T08:09:10.644801",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -15,7 +15,7 @@
     },
     {
       "email": "lcerrito@cs.princeton.edu",
-      "office": "226 Computer Science",
+      "office": "204 Computer Science",
       "title": "Undergraduate Administrator",
       "name": "Laura Cerrito",
       "netid": "lcerrito",
