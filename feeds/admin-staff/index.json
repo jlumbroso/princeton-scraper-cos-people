@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-09-25T08:09:10.644801",
+  "timestamp": "2021-10-02T08:08:30.842479",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -149,6 +149,16 @@
       "campus-email": "bjvarga@princeton.edu",
       "first": "Barbara",
       "last": "Varga",
+      "type": "admin-staff"
+    },
+    {
+      "email": "ew0001@cs.princeton.edu",
+      "office": "226 Computer Science",
+      "title": "Manager, Administration and Operations",
+      "name": "Elizabeth Wang      \n      \n              (appointment starts November 1, 2021)",
+      "netid": "ew0001",
+      "first": "Elizabeth Wang (appointment starts November 1,",
+      "last": "2021)",
       "type": "admin-staff"
     }
   ]
