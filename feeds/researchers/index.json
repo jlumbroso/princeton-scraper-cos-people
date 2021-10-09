@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-10-02T08:08:14.351424",
+  "timestamp": "2021-10-09T08:09:01.069540",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -418,6 +418,8 @@
       "degree": "Ph.D., University of Technology Sydney, 2021",
       "title": "Postdoctoral Research Associate",
       "name": "Yu Wu",
+      "homepage": "https://www.cs.princeton.edu/~yw5952",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/yw5952",
       "netid": "yw5952",
       "campus-email": "yw5952@princeton.edu",
       "first": "Yu",
