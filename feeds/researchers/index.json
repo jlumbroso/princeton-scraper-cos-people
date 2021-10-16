@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-10-09T08:09:01.069540",
+  "timestamp": "2021-10-16T08:10:52.018279",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -262,11 +262,11 @@
       "email": "erussek@cs.princeton.edu",
       "degree": "Ph.D., New York University, 2018",
       "title": "Postdoctoral Research Associate",
-      "name": "Evan Russek      \n      \n              (appointment starts October 11, 2021)",
+      "name": "Evan Russek",
       "netid": "erussek",
       "campus-email": "erussek@princeton.edu",
-      "first": "Evan Russek (appointment starts October 11,",
-      "last": "2021)",
+      "first": "Evan",
+      "last": "Russek",
       "type": "researchers"
     },
     {
