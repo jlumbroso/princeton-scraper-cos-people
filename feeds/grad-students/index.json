@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-10-16T08:15:42.708556",
+  "timestamp": "2021-10-23T08:10:53.487138",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -81,7 +81,6 @@
       "email": "argueta@cs.princeton.edu",
       "title": "Graduate Student",
       "name": "Cedrick Argueta",
-      "advisers": "Szymon Rusinkiewicz",
       "netid": "argueta",
       "campus-email": "cedrick@princeton.edu",
       "first": "Cedrick",
