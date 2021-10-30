@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-10-23T08:08:02.172299",
+  "timestamp": "2021-10-30T08:09:57.574011",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -306,6 +306,16 @@
       "campus-email": "pijus.simonaitis@princeton.edu",
       "first": "Pijus",
       "last": "Simonaitis",
+      "type": "researchers"
+    },
+    {
+      "email": "ps1021@cs.princeton.edu",
+      "title": "Research Assistant",
+      "name": "Prachi Sinha",
+      "netid": "ps1021",
+      "campus-email": "psin@princeton.edu",
+      "first": "Prachi",
+      "last": "Sinha",
       "type": "researchers"
     },
     {
