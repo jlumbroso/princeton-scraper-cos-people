@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-10-30T08:14:44.696042",
+  "timestamp": "2021-11-06T08:14:42.743612",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1565,7 +1565,6 @@
       "homepage": "https://www.cs.princeton.edu/~pmurali",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4301&thumb=",
       "netid": "pmurali",
-      "campus-email": "pmurali@princeton.edu",
       "first": "Prakash",
       "last": "Murali",
       "type": "grad-students",
