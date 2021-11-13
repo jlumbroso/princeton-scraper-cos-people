@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-11-06T08:14:42.743612",
+  "timestamp": "2021-11-13T08:12:11.749312",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1759,7 +1759,6 @@
       "research-areas": "Programming Languages / Compilers",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3913&thumb=",
       "netid": "lpick",
-      "campus-email": "lpick@princeton.edu",
       "first": "Lauren",
       "last": "Pick",
       "type": "grad-students",
