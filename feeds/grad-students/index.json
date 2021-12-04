@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-11-27T08:17:26.388995",
+  "timestamp": "2021-12-04T08:11:50.619936",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -2360,7 +2360,6 @@
       "research-areas": "Machine Learning",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2662&thumb=",
       "netid": "nturner",
-      "campus-email": "nturner@princeton.edu",
       "first": "Nicholas",
       "last": "Turner",
       "type": "grad-students",
@@ -2586,6 +2585,7 @@
       "title": "Graduate Student",
       "name": "Madelyne Xiao",
       "advisers": "Ben Raphael",
+      "homepage": "https://www.cs.princeton.edu/~mx3521",
       "netid": "mx3521",
       "campus-email": "madelyne@princeton.edu",
       "first": "Madelyne",
