@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2021-12-11T08:11:32.896051",
+  "timestamp": "2021-12-18T08:10:59.210920",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -2021,7 +2021,6 @@
       "advisers": "Elad Hazan",
       "homepage": "https://www.cs.princeton.edu/~karans",
       "netid": "karans",
-      "campus-email": "karans@princeton.edu",
       "first": "Karan",
       "last": "Singh",
       "type": "grad-students"
