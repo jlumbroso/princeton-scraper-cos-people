@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-01-01T08:09:50.133623",
+  "timestamp": "2022-01-08T08:09:22.293107",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -313,7 +313,6 @@
       "title": "Postdoctoral Research Associate",
       "name": "William Thompson",
       "netid": "wdt",
-      "campus-email": "wdt@princeton.edu",
       "first": "William",
       "last": "Thompson",
       "type": "researchers"
