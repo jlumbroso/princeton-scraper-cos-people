@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-01-08T08:09:22.293107",
+  "timestamp": "2022-01-15T08:09:35.316207",
   "data": [
     {
       "email": "bjarnold@cs.princeton.edu",
@@ -288,7 +288,6 @@
       "homepage": "https://www.cs.princeton.edu/~kstark",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5253&thumb=",
       "netid": "kstark",
-      "campus-email": "kstark@princeton.edu",
       "first": "Kathrin",
       "last": "Stark",
       "type": "researchers",
