@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-01-15T08:13:55.514944",
+  "timestamp": "2022-01-22T08:13:08.413572",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1660,7 +1660,6 @@
       "advisers": "Sebastian Seung",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2657&thumb=",
       "netid": "popovych",
-      "campus-email": "popovych@princeton.edu",
       "first": "Sergiy",
       "last": "Popovych",
       "type": "grad-students",

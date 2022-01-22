@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-01-15T08:08:42.501206",
+  "timestamp": "2022-01-22T08:08:09.591099",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -685,11 +685,11 @@
       "office": "D226 Engineering Quadrangle",
       "degree": "Ph.D., Massachusetts Institute of Technology, 2001",
       "title": "Professor",
-      "name": "Radhika Nagpal      \n      \n              (appointment starts January 16, 2022)",
+      "name": "Radhika Nagpal",
       "netid": "rn1627",
       "campus-email": "rn1627@princeton.edu",
-      "first": "Radhika Nagpal (appointment starts January 16,",
-      "last": "2022)",
+      "first": "Radhika",
+      "last": "Nagpal",
       "type": "faculty"
     },
     {
