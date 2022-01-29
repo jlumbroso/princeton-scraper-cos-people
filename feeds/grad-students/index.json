@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-01-22T08:13:08.413572",
+  "timestamp": "2022-01-29T08:13:17.458559",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -2695,7 +2695,6 @@
       "name": "Yurong Zhuang",
       "advisers": "Ben Raphael",
       "netid": "yzhuang",
-      "campus-email": "yzhuang@princeton.edu",
       "first": "Yurong",
       "last": "Zhuang",
       "type": "grad-students"
