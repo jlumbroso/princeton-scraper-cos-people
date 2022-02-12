@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-02-05T08:12:38.650647",
+  "timestamp": "2022-02-12T08:13:22.378748",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -785,17 +785,6 @@
       "campus-email": "minaba@princeton.edu",
       "first": "Mikako",
       "last": "Inaba",
-      "type": "grad-students"
-    },
-    {
-      "email": "lislam@cs.princeton.edu",
-      "title": "Graduate Student",
-      "name": "Leila Islam",
-      "advisers": "Ryan Adams",
-      "netid": "lislam",
-      "campus-email": "lislam@princeton.edu",
-      "first": "Leila",
-      "last": "Islam",
       "type": "grad-students"
     },
     {

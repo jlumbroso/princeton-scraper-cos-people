@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-02-05T08:09:55.613310",
+  "timestamp": "2022-02-12T08:09:23.374556",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -107,8 +107,8 @@
     },
     {
       "email": "lriehl@cs.princeton.edu",
-      "office": "206 Computer Science",
-      "title": "Program Coordinator / Administrative Coordinator",
+      "office": "213 Computer Science",
+      "title": "Graduate Coordinator",
       "name": "Louis Riehl",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4520&thumb=",
       "netid": "lriehl",
