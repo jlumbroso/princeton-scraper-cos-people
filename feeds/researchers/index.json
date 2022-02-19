@@ -1,12 +1,13 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-02-12T08:08:59.342216",
+  "timestamp": "2022-02-19T08:09:03.237523",
   "data": [
     {
-      "email": "(&commatcs.princeton.edu)",
+      "email": "panchuri@cs.princeton.edu",
       "title": "Professional Specialist",
       "name": "Pranay Anchuri",
-      "netid": "(&commatcs.princeton.edu)",
+      "netid": "panchuri",
+      "campus-email": "panchuri@princeton.edu",
       "first": "Pranay",
       "last": "Anchuri",
       "type": "researchers"
@@ -445,6 +446,16 @@
       "campus-email": "rzeira@princeton.edu",
       "first": "Ron",
       "last": "Zeira",
+      "type": "researchers"
+    },
+    {
+      "email": "(&commatcs.princeton.edu)",
+      "degree": "Ph.D., Emory University, 2021",
+      "title": "Postdoctoral Research Associate",
+      "name": "Lei Zhang",
+      "netid": "(&commatcs.princeton.edu)",
+      "first": "Lei",
+      "last": "Zhang",
       "type": "researchers"
     }
   ]
