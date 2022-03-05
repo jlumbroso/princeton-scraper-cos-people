@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-02-26T08:09:21.942280",
+  "timestamp": "2022-03-05T08:09:30.483399",
   "data": [
     {
       "email": "panchuri@cs.princeton.edu",
@@ -389,7 +389,7 @@
       "profile-url": "https://www.cs.princeton.edu/people/profile/yw5952",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=6079&thumb=",
       "netid": "yw5952",
-      "campus-email": "yw5952@princeton.edu",
+      "campus-email": "yuwu@princeton.edu",
       "first": "Yu",
       "last": "Wu",
       "type": "researchers",
