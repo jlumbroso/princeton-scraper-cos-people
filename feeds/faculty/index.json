@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-03-05T08:08:45.810021",
+  "timestamp": "2022-03-12T08:08:14.639693",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -808,7 +808,6 @@
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3893&thumb=",
       "netid": "braphael",
       "campus-email": "braphael@princeton.edu",
-      "leave": true,
       "first": "Ben",
       "last": "Raphael",
       "type": "faculty",

@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-03-05T08:09:36.923587",
+  "timestamp": "2022-03-12T08:09:13.203034",
   "data": [
     {
       "email": "jrc@cs.princeton.edu",
@@ -80,7 +80,7 @@
     {
       "email": "cmsanche@cs.princeton.edu",
       "office": "101C Computer Science",
-      "title": "Web Developer",
+      "title": "Senior Web Developer",
       "name": "Chris Sanchez",
       "homepage": "https://www.cs.princeton.edu/~cmsanche",
       "profile-url": "https://www.cs.princeton.edu/people/profile/cmsanche",
