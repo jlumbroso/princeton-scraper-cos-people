@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-03-12T08:09:04.780467",
+  "timestamp": "2022-03-19T08:08:49.257774",
   "data": [
     {
       "email": "panchuri@cs.princeton.edu",
@@ -94,6 +94,17 @@
       "campus-email": "zhiweid@princeton.edu",
       "first": "Zhiwei",
       "last": "Deng",
+      "type": "researchers"
+    },
+    {
+      "email": "biancad@cs.princeton.edu",
+      "degree": "Ph.D., Princeton University, 2019",
+      "title": "Visiting Research Scholar",
+      "name": "Bianca Dumitrascu      \n      \n              (appointment starts April 1, 2022)",
+      "netid": "biancad",
+      "campus-email": "biancad@princeton.edu",
+      "first": "Bianca Dumitrascu (appointment starts April 1,",
+      "last": "2022)",
       "type": "researchers"
     },
     {
@@ -276,7 +287,6 @@
       "title": "Postdoctoral Research Associate",
       "name": "Pijus Simonaitis",
       "netid": "ps6998",
-      "campus-email": "pijus.simonaitis@princeton.edu",
       "first": "Pijus",
       "last": "Simonaitis",
       "type": "researchers"
@@ -289,6 +299,17 @@
       "campus-email": "psin@princeton.edu",
       "first": "Prachi",
       "last": "Sinha",
+      "type": "researchers"
+    },
+    {
+      "email": "js2523@cs.princeton.edu",
+      "degree": "Ph.D., University of Toronto, 2021",
+      "title": "Postdoctoral Research Associate",
+      "name": "Jake Snell      \n      \n              (appointment starts June 1, 2022)",
+      "netid": "js2523",
+      "campus-email": "js2523@princeton.edu",
+      "first": "Jake Snell (appointment starts June 1,",
+      "last": "2022)",
       "type": "researchers"
     },
     {
