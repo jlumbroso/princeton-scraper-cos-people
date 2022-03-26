@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-03-19T08:09:03.848854",
+  "timestamp": "2022-03-26T08:08:11.514072",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -49,7 +49,7 @@
     {
       "email": "kskaplan@cs.princeton.edu",
       "office": "226 Computer Science",
-      "title": "Course Assistant",
+      "title": "Course & Program Administrator",
       "name": "Kobi Kaplan",
       "netid": "kskaplan",
       "campus-email": "kskaplan@princeton.edu",
