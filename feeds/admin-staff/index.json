@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-03-26T08:08:11.514072",
+  "timestamp": "2022-04-02T08:09:33.932030",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -27,7 +27,7 @@
     {
       "email": "mestepp@cs.princeton.edu",
       "office": "226 Computer Science",
-      "title": "Procurement Admin",
+      "title": "Department Coordinator",
       "name": "Michael Estepp",
       "netid": "mestepp",
       "campus-email": "mestepp@princeton.edu",

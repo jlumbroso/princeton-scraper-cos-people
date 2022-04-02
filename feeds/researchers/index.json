@@ -1,7 +1,18 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-03-26T08:07:57.368177",
+  "timestamp": "2022-04-02T08:09:18.173991",
   "data": [
+    {
+      "email": "aa0539@cs.princeton.edu",
+      "degree": "Ph.D., Universit\u00e9 C\u00f4te d\u2019Azur, 2020",
+      "title": "Postdoctoral Research Associate",
+      "name": "Abib Alimi      \n      \n              (appointment starts July 1, 2022)",
+      "netid": "aa0539",
+      "campus-email": "aa0539@princeton.edu",
+      "first": "Abib Alimi (appointment starts July 1,",
+      "last": "2022)",
+      "type": "researchers"
+    },
     {
       "email": "panchuri@cs.princeton.edu",
       "title": "Professional Specialist",
@@ -100,11 +111,11 @@
       "email": "biancad@cs.princeton.edu",
       "degree": "Ph.D., Princeton University, 2019",
       "title": "Visiting Research Scholar",
-      "name": "Bianca Dumitrascu      \n      \n              (appointment starts April 1, 2022)",
+      "name": "Bianca Dumitrascu",
       "netid": "biancad",
       "campus-email": "biancad@princeton.edu",
-      "first": "Bianca Dumitrascu (appointment starts April 1,",
-      "last": "2022)",
+      "first": "Bianca",
+      "last": "Dumitrascu",
       "type": "researchers"
     },
     {
