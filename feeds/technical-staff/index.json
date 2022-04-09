@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-04-02T08:09:24.314815",
+  "timestamp": "2022-04-09T08:08:09.850393",
   "data": [
     {
       "email": "jrc@cs.princeton.edu",
@@ -94,12 +94,13 @@
     },
     {
       "email": "rv8627@cs.princeton.edu",
-      "title": "Technical Staff",
-      "name": "Rupesh Varghese      \n      \n              (appointment starts April 4, 2022)",
+      "office": "101C Computer Science",
+      "title": "Technical Support Associate",
+      "name": "Rupesh Varghese",
       "netid": "rv8627",
-      "campus-email": "rv8627@princeton.edu",
-      "first": "Rupesh Varghese (appointment starts April 4,",
-      "last": "2022)",
+      "campus-email": "rupesh@princeton.edu",
+      "first": "Rupesh",
+      "last": "Varghese",
       "type": "technical-staff"
     }
   ]
