@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-04-30T08:09:35.903454",
+  "timestamp": "2022-05-07T08:09:20.213321",
   "data": [
     {
       "email": "jrc@cs.princeton.edu",
@@ -80,11 +80,11 @@
     {
       "email": "jr3741@cs.princeton.edu",
       "title": "Technical Support Associate",
-      "name": "Jordan Rice      \n      \n              (appointment starts May 2, 2022)",
+      "name": "Jordan Rice",
       "netid": "jr3741",
       "campus-email": "jr3741@princeton.edu",
-      "first": "Jordan Rice (appointment starts May 2,",
-      "last": "2022)",
+      "first": "Jordan",
+      "last": "Rice",
       "type": "technical-staff"
     },
     {
