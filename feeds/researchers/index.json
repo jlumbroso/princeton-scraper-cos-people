@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-05-14T08:07:49.054364",
+  "timestamp": "2022-05-21T08:09:33.084517",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -89,11 +89,11 @@
       "email": "pc28@cs.princeton.edu",
       "degree": "Ph.D., University of North Carolina at Chapel Hill, 2021",
       "title": "Postdoctoral Research Associate",
-      "name": "Praneeth Chakravarthula      \n      \n              (appointment starts May 15, 2022)",
+      "name": "Praneeth Chakravarthula",
       "netid": "pc28",
       "campus-email": "praneethc@princeton.edu",
-      "first": "Praneeth Chakravarthula (appointment starts May 15,",
-      "last": "2022)",
+      "first": "Praneeth",
+      "last": "Chakravarthula",
       "type": "researchers"
     },
     {
@@ -125,7 +125,6 @@
       "title": "Visiting Research Scholar",
       "name": "Bianca Dumitrascu",
       "netid": "biancad",
-      "campus-email": "biancad@princeton.edu",
       "first": "Bianca",
       "last": "Dumitrascu",
       "type": "researchers"
