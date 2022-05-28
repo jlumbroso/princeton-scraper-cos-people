@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-05-21T08:09:33.084517",
+  "timestamp": "2022-05-28T08:10:32.029610",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -89,17 +89,6 @@
       "email": "pc28@cs.princeton.edu",
       "degree": "Ph.D., University of North Carolina at Chapel Hill, 2021",
       "title": "Postdoctoral Research Associate",
-      "name": "Praneeth Chakravarthula",
-      "netid": "pc28",
-      "campus-email": "praneethc@princeton.edu",
-      "first": "Praneeth",
-      "last": "Chakravarthula",
-      "type": "researchers"
-    },
-    {
-      "email": "pc28@cs.princeton.edu",
-      "degree": "Ph.D., University of North Carolina at Chapel Hill, 2021",
-      "title": "Visiting Research Scholar",
       "name": "Praneeth Chakravarthula",
       "netid": "pc28",
       "campus-email": "praneethc@princeton.edu",
@@ -435,6 +424,7 @@
     },
     {
       "email": "nz2600@cs.princeton.edu",
+      "office": "418A Computer Science",
       "degree": "Ph.D., Carnegie Mellon University, 2021",
       "title": "Postdoctoral Research Associate",
       "name": "Jenny Zhan      \n      \n              (appointment starts June 1, 2022)",

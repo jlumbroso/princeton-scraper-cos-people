@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-05-21T08:14:47.602301",
+  "timestamp": "2022-05-28T08:15:45.160415",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -369,7 +369,6 @@
       "advisers": "Barbara Engelhardt",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5629&thumb=",
       "netid": "canc",
-      "campus-email": "scui@princeton.edu",
       "first": "Can",
       "last": "Cui",
       "type": "grad-students",
@@ -417,7 +416,6 @@
       "name": "Weicong Dong",
       "advisers": "Danqi Chen",
       "netid": "weicongd",
-      "campus-email": "weicongd@princeton.edu",
       "first": "Weicong",
       "last": "Dong",
       "type": "grad-students"
@@ -451,7 +449,6 @@
       "name": "Juan Duque",
       "advisers": "Karthik Narasimhan",
       "netid": "jduque",
-      "campus-email": "jduque@princeton.edu",
       "first": "Juan",
       "last": "Duque",
       "type": "grad-students"
@@ -522,7 +519,6 @@
       "advisers": "Jia Deng",
       "homepage": "https://www.cs.princeton.edu/~jg41",
       "netid": "jg41",
-      "campus-email": "jg41@princeton.edu",
       "first": "Joshua",
       "last": "Gardner",
       "type": "grad-students"
@@ -729,7 +725,6 @@
       "research-areas": "Security & Privacy",
       "homepage": "https://www.cs.princeton.edu/~jordanah",
       "netid": "jordanah",
-      "campus-email": "jordanah@princeton.edu",
       "first": "Jordan Alexander",
       "last": "Holland",
       "type": "grad-students"
@@ -756,7 +751,6 @@
       "homepage": "https://www.cs.princeton.edu/~ahounsel",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4295&thumb=",
       "netid": "ahounsel",
-      "campus-email": "ahounsel@princeton.edu",
       "first": "Austin",
       "last": "Hounsel",
       "type": "grad-students",
@@ -921,7 +915,6 @@
       "name": "Anat Kleiman",
       "advisers": "Ryan Adams",
       "netid": "anatk",
-      "campus-email": "anatk@princeton.edu",
       "first": "Anat",
       "last": "Kleiman",
       "type": "grad-students"
@@ -932,7 +925,6 @@
       "name": "Julian Knodt",
       "advisers": "Felix Heide",
       "netid": "jknodt",
-      "campus-email": "jknodt@princeton.edu",
       "first": "Julian",
       "last": "Knodt",
       "type": "grad-students"
@@ -1068,7 +1060,6 @@
       "name": "Huihan Li",
       "advisers": "Danqi Chen",
       "netid": "huihanl",
-      "campus-email": "huihanl@princeton.edu",
       "first": "Huihan",
       "last": "Li",
       "type": "grad-students"
@@ -1136,7 +1127,6 @@
       "name": "Danqi Liao",
       "advisers": "Karthik Narasimhan",
       "netid": "dl33",
-      "campus-email": "dl33@princeton.edu",
       "first": "Danqi",
       "last": "Liao",
       "type": "grad-students"
@@ -1185,7 +1175,6 @@
       "name": "Runze Liu",
       "advisers": "J\u00e9r\u00e9mie Lumbroso",
       "netid": "runzel",
-      "campus-email": "runzel@princeton.edu",
       "first": "Runze",
       "last": "Liu",
       "type": "grad-students"
@@ -1396,7 +1385,6 @@
       "homepage": "https://www.cs.princeton.edu/~syoosefi",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4300&thumb=",
       "netid": "syoosefi",
-      "campus-email": "miryoosefi@princeton.edu",
       "first": "Seyed Sobhan Mir",
       "last": "Yoosefi",
       "type": "grad-students",
@@ -1787,7 +1775,6 @@
       "name": "Tara Shankar",
       "advisers": "Ryan Adams",
       "netid": "tshankar",
-      "campus-email": "tshankar@princeton.edu",
       "first": "Tara",
       "last": "Shankar",
       "type": "grad-students"
@@ -1798,7 +1785,6 @@
       "name": "Christina Shatford",
       "advisers": "Szymon Rusinkiewicz",
       "netid": "shatford",
-      "campus-email": "shatford@princeton.edu",
       "first": "Christina",
       "last": "Shatford",
       "type": "grad-students"
@@ -1840,7 +1826,6 @@
       "advisers": "Sebastian Seung",
       "research-areas": "Computational BiologyVision / Graphics",
       "netid": "rileys",
-      "campus-email": "rileys@princeton.edu",
       "first": "Riley",
       "last": "Simmons-Edler",
       "type": "grad-students"
@@ -1960,7 +1945,6 @@
       "advisers": "Adam Finkelstein",
       "research-areas": "Vision / Graphics",
       "netid": "jiaqis",
-      "campus-email": "jiaqis@princeton.edu",
       "first": "Jiaqi",
       "last": "Su",
       "type": "grad-students"
@@ -2124,7 +2108,6 @@
       "name": "Kawin Tiyawattanaroj",
       "advisers": "Matthew Weinberg",
       "netid": "kawint",
-      "campus-email": "kawint@princeton.edu",
       "first": "Kawin",
       "last": "Tiyawattanaroj",
       "type": "grad-students"
@@ -2597,7 +2580,6 @@
       "name": "Dorothy Zhao",
       "advisers": "Olga Russakovsky",
       "netid": "dorothyz",
-      "campus-email": "dorothyzhao@princeton.edu",
       "first": "Dorothy",
       "last": "Zhao",
       "type": "grad-students"
