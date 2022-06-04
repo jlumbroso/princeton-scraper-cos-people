@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-05-28T08:15:45.160415",
+  "timestamp": "2022-06-04T08:14:58.800612",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -56,7 +56,6 @@
       "title": "Graduate Student",
       "name": "Cedrick Argueta",
       "netid": "argueta",
-      "campus-email": "cedrick@princeton.edu",
       "first": "Cedrick",
       "last": "Argueta",
       "type": "grad-students"
@@ -1983,7 +1982,6 @@
       "name": "Matthew Sun",
       "advisers": "Arvind Narayanan",
       "netid": "mdsun",
-      "campus-email": "mdsun@princeton.edu",
       "first": "Matthew",
       "last": "Sun",
       "type": "grad-students"

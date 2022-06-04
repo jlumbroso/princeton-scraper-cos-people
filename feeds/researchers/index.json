@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-05-28T08:10:32.029610",
+  "timestamp": "2022-06-04T08:09:48.328805",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -295,11 +295,11 @@
       "email": "js2523@cs.princeton.edu",
       "degree": "Ph.D., University of Toronto, 2021",
       "title": "Postdoctoral Research Associate",
-      "name": "Jake Snell      \n      \n              (appointment starts June 1, 2022)",
+      "name": "Jake Snell",
       "netid": "js2523",
       "campus-email": "js2523@princeton.edu",
-      "first": "Jake Snell (appointment starts June 1,",
-      "last": "2022)",
+      "first": "Jake",
+      "last": "Snell",
       "type": "researchers"
     },
     {
@@ -427,11 +427,11 @@
       "office": "418A Computer Science",
       "degree": "Ph.D., Carnegie Mellon University, 2021",
       "title": "Postdoctoral Research Associate",
-      "name": "Jenny Zhan      \n      \n              (appointment starts June 1, 2022)",
+      "name": "Jenny Zhan",
       "netid": "nz2600",
       "campus-email": "nizhan@princeton.edu",
-      "first": "Jenny Zhan (appointment starts June 1,",
-      "last": "2022)",
+      "first": "Jenny",
+      "last": "Zhan",
       "type": "researchers"
     },
     {
