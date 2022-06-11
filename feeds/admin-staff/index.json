@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-06-04T21:10:43.405576",
+  "timestamp": "2022-06-11T08:10:50.060164",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -60,7 +60,7 @@
     {
       "email": "mkelly@cs.princeton.edu",
       "office": "206 Computer Science",
-      "title": "Secretary",
+      "title": "Academic Support & Robotics Certificate Admin",
       "name": "Mitra Kelly",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=41&thumb=",
       "netid": "mkelly",
