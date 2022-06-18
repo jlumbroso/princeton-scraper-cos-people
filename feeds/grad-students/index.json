@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-06-11T08:17:23.833280",
+  "timestamp": "2022-06-18T08:18:05.589256",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1784,6 +1784,7 @@
       "name": "Christina Shatford",
       "advisers": "Szymon Rusinkiewicz",
       "netid": "shatford",
+      "campus-email": "shatford@princeton.edu",
       "first": "Christina",
       "last": "Shatford",
       "type": "grad-students"
