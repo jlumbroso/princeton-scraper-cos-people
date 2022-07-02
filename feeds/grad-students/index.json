@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-06-25T08:19:11.140197",
+  "timestamp": "2022-07-02T08:19:32.385933",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -1260,7 +1260,6 @@
       "name": "Yuping Luo",
       "advisers": "Sanjeev Arora",
       "netid": "yupingl",
-      "campus-email": "yupingl@princeton.edu",
       "first": "Yuping",
       "last": "Luo",
       "type": "grad-students"
@@ -1351,6 +1350,18 @@
       "campus-email": "pmanocha@princeton.edu",
       "first": "Pranay",
       "last": "Manocha",
+      "type": "grad-students"
+    },
+    {
+      "email": "lm5483@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Lingjie Mei",
+      "advisers": "Jia Deng",
+      "research-areas": "Vision / Graphics",
+      "netid": "lm5483",
+      "campus-email": "meilingjie1219@princeton.edu",
+      "first": "Lingjie",
+      "last": "Mei",
       "type": "grad-students"
     },
     {
@@ -1516,7 +1527,6 @@
       "name": "Yaniv Ovadia",
       "advisers": "Ryan Adams",
       "netid": "yovadia",
-      "campus-email": "yovadia@princeton.edu",
       "first": "Yaniv",
       "last": "Ovadia",
       "type": "grad-students"

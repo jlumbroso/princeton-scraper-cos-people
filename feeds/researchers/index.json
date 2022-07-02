@@ -1,16 +1,16 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-06-25T08:10:54.294748",
+  "timestamp": "2022-07-02T08:11:06.402536",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
       "degree": "Ph.D., Universit\u00e9 C\u00f4te d\u2019Azur, 2020",
       "title": "Postdoctoral Research Associate",
-      "name": "Abib Alimi      \n      \n              (appointment starts July 1, 2022)",
+      "name": "Abib Alimi",
       "netid": "aa0539",
       "campus-email": "aa0539@princeton.edu",
-      "first": "Abib Alimi (appointment starts July 1,",
-      "last": "2022)",
+      "first": "Abib",
+      "last": "Alimi",
       "type": "researchers"
     },
     {
@@ -31,7 +31,6 @@
       "homepage": "https://www.cs.princeton.edu/~jlaragon",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2833&thumb=",
       "netid": "jlaragon",
-      "campus-email": "jlaragon@princeton.edu",
       "first": "Juan",
       "last": "Arag\u00f3n",
       "type": "researchers",
@@ -219,6 +218,17 @@
       "campus-email": "congma@princeton.edu",
       "first": "Cong",
       "last": "Ma",
+      "type": "researchers"
+    },
+    {
+      "email": "um6916@cs.princeton.edu",
+      "degree": "Ph.D., University of California, San Diego, 2022",
+      "title": "Postdoctoral Research Associate",
+      "name": "Uyen Mai",
+      "netid": "um6916",
+      "campus-email": "um6916@princeton.edu",
+      "first": "Uyen",
+      "last": "Mai",
       "type": "researchers"
     },
     {
