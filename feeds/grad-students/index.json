@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-02T08:19:32.385933",
+  "timestamp": "2022-07-09T08:23:29.285344",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -884,6 +884,17 @@
       "type": "grad-students"
     },
     {
+      "email": "kk2285@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Karhan Kayan",
+      "advisers": "Jia Deng",
+      "netid": "kk2285",
+      "campus-email": "karhan@princeton.edu",
+      "first": "Karhan",
+      "last": "Kayan",
+      "type": "grad-students"
+    },
+    {
       "email": "minsungk@cs.princeton.edu",
       "office": "103 Computer Science",
       "title": "Graduate Student",
@@ -1047,7 +1058,6 @@
       "research-areas": "Security & Privacy",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4671&thumb=",
       "netid": "kl26",
-      "campus-email": "kvnl@princeton.edu",
       "first": "Kevin",
       "last": "Lee",
       "type": "grad-students",
@@ -1197,6 +1207,17 @@
       "netid": "xl2493",
       "campus-email": "xl2493@princeton.edu",
       "first": "Xinran",
+      "last": "Liu",
+      "type": "grad-students"
+    },
+    {
+      "email": "yl8744@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Yuhan Liu",
+      "advisers": "Andr\u00e9s Monroy-Hern\u00e1ndez",
+      "netid": "yl8744",
+      "campus-email": "yl8744@princeton.edu",
+      "first": "Yuhan",
       "last": "Liu",
       "type": "grad-students"
     },
@@ -2548,6 +2569,17 @@
       "campus-email": "weizhan@princeton.edu",
       "first": "Wei",
       "last": "Zhan",
+      "type": "grad-students"
+    },
+    {
+      "email": "lz3156@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Liyi Zhang",
+      "advisers": "Adji Bousso Dieng",
+      "netid": "lz3156",
+      "campus-email": "lz3156@princeton.edu",
+      "first": "Liyi",
+      "last": "Zhang",
       "type": "grad-students"
     },
     {

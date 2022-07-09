@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-02T08:11:06.402536",
+  "timestamp": "2022-07-09T08:13:37.132739",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -127,7 +127,6 @@
       "profile-url": "https://www.cs.princeton.edu/people/profile/feamster",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2835&thumb=",
       "netid": "feamster",
-      "campus-email": "feamster@princeton.edu",
       "first": "Nick",
       "last": "Feamster",
       "type": "researchers",
