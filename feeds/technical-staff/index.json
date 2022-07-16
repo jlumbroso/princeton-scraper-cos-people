@@ -1,10 +1,10 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-09T08:13:59.314728",
+  "timestamp": "2022-07-16T08:12:27.972135",
   "data": [
     {
       "email": "jrc@cs.princeton.edu",
-      "office": "101D Computer Science",
+      "office": "226 Computer Science",
       "title": "Manager, Application Development and Support",
       "name": "Joseph Crouthamel",
       "homepage": "https://www.cs.princeton.edu/~jrc",
@@ -79,6 +79,7 @@
     },
     {
       "email": "jr3741@cs.princeton.edu",
+      "office": "226 Computer Science",
       "title": "Technical Support Associate",
       "name": "Jordan Rice",
       "netid": "jr3741",
@@ -104,7 +105,7 @@
     },
     {
       "email": "rv8627@cs.princeton.edu",
-      "office": "101C Computer Science",
+      "office": "226 Computer Science",
       "title": "Technical Support Associate",
       "name": "Rupesh Varghese",
       "netid": "rv8627",

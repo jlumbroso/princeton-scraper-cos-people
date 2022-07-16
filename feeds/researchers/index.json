@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-09T08:13:37.132739",
+  "timestamp": "2022-07-16T08:12:06.250516",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -18,7 +18,6 @@
       "title": "Professional Specialist",
       "name": "Pranay Anchuri",
       "netid": "panchuri",
-      "campus-email": "panchuri@princeton.edu",
       "first": "Pranay",
       "last": "Anchuri",
       "type": "researchers"

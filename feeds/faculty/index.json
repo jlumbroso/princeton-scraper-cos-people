@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-09T08:11:31.624175",
+  "timestamp": "2022-07-16T08:10:01.929405",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -74,7 +74,7 @@
     },
     {
       "email": "eberinge@cs.princeton.edu",
-      "office": "212 Computer Science",
+      "office": "216 Computer Science",
       "degree": "Ph.D., University of Edinburgh, 2002",
       "title": "Research Scholar",
       "name": "Lennart Beringer",
@@ -90,6 +90,7 @@
     },
     {
       "email": "sb2592@cs.princeton.edu",
+      "office": "415 Computer Science",
       "degree": "Ph.D., University of Illinois, Urbana-Champaign, 2010",
       "title": "Research Scholar",
       "name": "Suma Bhat      \n      \n              (appointment starts August 16, 2022)",
@@ -824,7 +825,7 @@
       "title": "Lecturer",
       "name": "Pedro Miguel Reis Bento Paredes      \n      \n              (appointment starts September 1, 2022)",
       "netid": "pr4368",
-      "campus-email": "pr4368@princeton.edu",
+      "campus-email": "pparedes@princeton.edu",
       "first": "Pedro Miguel Reis Bento Paredes (appointment starts September 1,",
       "last": "2022)",
       "type": "faculty"

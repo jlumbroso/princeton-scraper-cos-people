@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-09T08:23:29.285344",
+  "timestamp": "2022-07-16T08:22:00.983629",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -248,7 +248,7 @@
       "advisers": "Jennifer Rexford",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4289&thumb=",
       "netid": "xiaoqic",
-      "campus-email": "xiaoqic@princeton.edu",
+      "campus-email": "danny.chen@princeton.edu",
       "first": "Xiaoqi",
       "last": "Chen",
       "type": "grad-students",
@@ -635,6 +635,7 @@
       "name": "Arushi Gupta",
       "advisers": "Sanjeev Arora",
       "research-areas": "Machine Learning",
+      "homepage": "https://www.cs.princeton.edu/~arushig",
       "netid": "arushig",
       "campus-email": "arushig@princeton.edu",
       "first": "Arushi",

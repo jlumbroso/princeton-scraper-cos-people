@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-09T08:14:31.414767",
+  "timestamp": "2022-07-16T08:12:59.453996",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -15,7 +15,7 @@
     },
     {
       "email": "lcerrito@cs.princeton.edu",
-      "office": "204 Computer Science",
+      "office": "212 Computer Science",
       "title": "Undergraduate Administrator",
       "name": "Laura Cerrito",
       "netid": "lcerrito",
@@ -26,7 +26,7 @@
     },
     {
       "email": "mestepp@cs.princeton.edu",
-      "office": "226 Computer Science",
+      "office": "206 Computer Science",
       "title": "Department Coordinator",
       "name": "Michael Estepp",
       "netid": "mestepp",
@@ -37,7 +37,7 @@
     },
     {
       "email": "mh45@cs.princeton.edu",
-      "office": "204 Computer Science",
+      "office": "212 Computer Science",
       "title": "Independent Work Administrator",
       "name": "Mikki Hornstein",
       "netid": "mh45",
@@ -48,7 +48,7 @@
     },
     {
       "email": "kskaplan@cs.princeton.edu",
-      "office": "226 Computer Science",
+      "office": "204 Computer Science",
       "title": "Course & Program Administrator",
       "name": "Kobi Kaplan",
       "netid": "kskaplan",
@@ -120,7 +120,7 @@
     },
     {
       "email": "jt8669@cs.princeton.edu",
-      "office": "226 Computer Science",
+      "office": "204 Computer Science",
       "title": "Grants Manager",
       "name": "Jenny Tirrito",
       "netid": "jt8669",
