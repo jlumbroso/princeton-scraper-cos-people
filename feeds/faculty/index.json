@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-16T08:10:01.929405",
+  "timestamp": "2022-07-23T08:09:48.137493",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -882,6 +882,7 @@
     },
     {
       "email": "ss5354@cs.princeton.edu",
+      "office": "419 Computer Science",
       "degree": "Ph.D., University of Pennsylvania, 1987",
       "title": "William R. Kenan, Jr., Visiting Professor for Distinguished Teaching",
       "name": "Shimon Schocken      \n      \n              (appointment starts September 1, 2022)",
