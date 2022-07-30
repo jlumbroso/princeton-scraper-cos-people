@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-23T08:09:50.431134",
+  "timestamp": "2022-07-30T08:08:34.607217",
   "data": [
     {
       "degree": "Ph.D., Massachusetts Institute of Technology, 2011",
@@ -187,7 +187,7 @@
       "degree": "Ph.D., University of California, Berkeley, 2000",
       "title": "Associated Faculty",
       "name": "Pramod Viswanath",
-      "research-interests": "First principle understanding and design of Blockchains. Inventing communication algorithms via Deep Learning.",
+      "research-interests": "Blockchains. Inventing communication algorithms via Deep Learning.",
       "homepage": "https://ece.princeton.edu/people/pramod-viswanath",
       "first": "Pramod",
       "last": "Viswanath",
