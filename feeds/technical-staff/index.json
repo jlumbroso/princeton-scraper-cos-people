@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-30T08:10:16.329380",
+  "timestamp": "2022-08-06T08:11:50.618634",
   "data": [
     {
       "email": "jrc@cs.princeton.edu",
@@ -66,11 +66,11 @@
       "email": "fl8638@cs.princeton.edu",
       "office": "101C Computer Science",
       "title": "Web Developer",
-      "name": "Fisnik Laci      \n      \n              (appointment starts August 1, 2022)",
+      "name": "Fisnik Laci",
       "netid": "fl8638",
       "campus-email": "fl8638@princeton.edu",
-      "first": "Fisnik Laci (appointment starts August 1,",
-      "last": "2022)",
+      "first": "Fisnik",
+      "last": "Laci",
       "type": "technical-staff"
     },
     {

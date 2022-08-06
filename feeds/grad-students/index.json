@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-07-30T08:17:19.517397",
+  "timestamp": "2022-08-06T08:19:26.054281",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -67,7 +67,6 @@
       "homepage": "https://www.cs.princeton.edu/~zashwood",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4287&thumb=",
       "netid": "zashwood",
-      "campus-email": "zashwood@princeton.edu",
       "first": "Zoe",
       "last": "Ashwood",
       "type": "grad-students",
@@ -156,6 +155,17 @@
       "campus-email": "bb5943@princeton.edu",
       "first": "Brianna",
       "last": "Butler",
+      "type": "grad-students"
+    },
+    {
+      "email": "cc4880@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Chenyue Cai",
+      "advisers": "Szymon Rusinkiewicz",
+      "netid": "cc4880",
+      "campus-email": "chenyue_cai@princeton.edu",
+      "first": "Chenyue",
+      "last": "Cai",
       "type": "grad-students"
     },
     {
@@ -303,6 +313,17 @@
       "campus-email": "yebin.chon@princeton.edu",
       "first": "Yebin",
       "last": "Chon",
+      "type": "grad-students"
+    },
+    {
+      "email": "gc3045@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Jillian Chu",
+      "advisers": "Ben Raphael",
+      "netid": "gc3045",
+      "campus-email": "gc3045@princeton.edu",
+      "first": "Jillian",
+      "last": "Chu",
       "type": "grad-students"
     },
     {
@@ -601,7 +622,6 @@
       "title": "Graduate Student",
       "name": "Charles Greenidge",
       "netid": "cdg4",
-      "campus-email": "cdg4@princeton.edu",
       "first": "Charles",
       "last": "Greenidge",
       "type": "grad-students"
@@ -673,6 +693,28 @@
       "campus-email": "dhaller@princeton.edu",
       "first": "Darby Asher Noam",
       "last": "Haller",
+      "type": "grad-students"
+    },
+    {
+      "email": "bh7032@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Beining Han",
+      "advisers": "Jia Deng",
+      "netid": "bh7032",
+      "campus-email": "bh7032@princeton.edu",
+      "first": "Beining",
+      "last": "Han",
+      "type": "grad-students"
+    },
+    {
+      "email": "dh7120@cs.princeton.edu",
+      "title": "Graduate Student",
+      "name": "Mike He",
+      "advisers": "Aarti Gupta",
+      "netid": "dh7120",
+      "campus-email": "mikehe@princeton.edu",
+      "first": "Mike",
+      "last": "He",
       "type": "grad-students"
     },
     {
@@ -1114,7 +1156,6 @@
       "advisers": "Sanjeev Arora",
       "homepage": "https://www.cs.princeton.edu/~zl4",
       "netid": "zl4",
-      "campus-email": "zhiyuanli@princeton.edu",
       "first": "Zhiyuan",
       "last": "Li",
       "type": "grad-students"
@@ -1317,7 +1358,6 @@
       "homepage": "https://www.cs.princeton.edu/~macdavid",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=2652&thumb=",
       "netid": "macdavid",
-      "campus-email": "macdavid@princeton.edu",
       "first": "Robert",
       "last": "MacDavid",
       "type": "grad-students",
@@ -1880,7 +1920,6 @@
       "advisers": "Robert Tarjan",
       "research-areas": "Theory",
       "netid": "sinnamon",
-      "campus-email": "sinnamon@princeton.edu",
       "first": "Corwin William",
       "last": "Sinnamon",
       "type": "grad-students"
@@ -2102,7 +2141,6 @@
       "advisers": "Jia Deng",
       "research-areas": "Vision / Graphics",
       "netid": "zteed",
-      "campus-email": "zteed@princeton.edu",
       "first": "Zachary Rickard",
       "last": "Teed",
       "type": "grad-students"
@@ -2201,7 +2239,6 @@
       "homepage": "https://www.cs.princeton.edu/~nsaunshi",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=3933&thumb=",
       "netid": "nsaunshi",
-      "campus-email": "nsaunshi@princeton.edu",
       "first": "Nikunj Umesh",
       "last": "Saunshi",
       "type": "grad-students",
@@ -2454,7 +2491,6 @@
       "homepage": "https://www.cs.princeton.edu/~kaiyuy",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4721&thumb=",
       "netid": "kaiyuy",
-      "campus-email": "kaiyuy@princeton.edu",
       "first": "Kaiyu",
       "last": "Yang",
       "type": "grad-students",
