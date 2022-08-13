@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-08-06T08:09:37.023517",
+  "timestamp": "2022-08-13T08:10:40.025100",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -680,7 +680,6 @@
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4419&thumb=",
       "netid": "karthikn",
       "campus-email": "karthikn@princeton.edu",
-      "leave": true,
       "first": "Karthik",
       "last": "Narasimhan",
       "type": "faculty",
@@ -698,6 +697,7 @@
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=1653&thumb=",
       "netid": "arvindn",
       "campus-email": "arvindn@princeton.edu",
+      "leave": true,
       "first": "Arvind",
       "last": "Narayanan",
       "type": "faculty",
