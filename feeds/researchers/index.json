@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-08-13T08:12:13.774008",
+  "timestamp": "2022-08-20T08:12:04.708232",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -259,11 +259,11 @@
       "email": "kn5378@cs.princeton.edu",
       "degree": "Ph.D., University of Maryland, College Park, 2022",
       "title": "Postdoctoral Research Associate",
-      "name": "Khanh Nguyen      \n      \n              (appointment starts August 15, 2022)",
+      "name": "Khanh Nguyen",
       "netid": "kn5378",
       "campus-email": "khanh.nguyen@princeton.edu",
-      "first": "Khanh Nguyen (appointment starts August 15,",
-      "last": "2022)",
+      "first": "Khanh",
+      "last": "Nguyen",
       "type": "researchers"
     },
     {
@@ -417,12 +417,13 @@
       "type": "researchers"
     },
     {
-      "email": "(&commatcs.princeton.edu)",
+      "email": "oz6054@cs.princeton.edu",
       "office": "318A Computer Science",
       "degree": "Ph.D., Tel Aviv University, 2020",
       "title": "Postdoctoral Research Associate",
       "name": "Or Zamir",
-      "netid": "(&commatcs.princeton.edu)",
+      "netid": "oz6054",
+      "campus-email": "orzamir@princeton.edu",
       "first": "Or",
       "last": "Zamir",
       "type": "researchers"

@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-08-13T08:10:40.025100",
+  "timestamp": "2022-08-20T08:10:15.267270",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -92,11 +92,11 @@
       "office": "415 Computer Science",
       "degree": "Ph.D., University of Illinois, Urbana-Champaign, 2010",
       "title": "Research Scholar",
-      "name": "Suma Bhat      \n      \n              (appointment starts August 16, 2022)",
+      "name": "Suma Bhat",
       "netid": "sb2592",
       "campus-email": "sb2592@princeton.edu",
-      "first": "Suma Bhat (appointment starts August 16,",
-      "last": "2022)",
+      "first": "Suma",
+      "last": "Bhat",
       "type": "faculty"
     },
     {
