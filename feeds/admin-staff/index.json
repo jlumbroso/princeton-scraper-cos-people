@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-08-20T08:12:54.450523",
+  "timestamp": "2022-08-27T08:14:22.545902",
   "data": [
     {
       "email": "mjbrown@cs.princeton.edu",
@@ -132,11 +132,11 @@
       "email": "js9299@cs.princeton.edu",
       "office": "C220 Engineering Quadrangle",
       "title": "Engineering Communication Specialist",
-      "name": "Julia Schwarz      \n      \n              (appointment starts August 22, 2022)",
+      "name": "Julia Schwarz",
       "netid": "js9299",
       "campus-email": "julia.schwarz@princeton.edu",
-      "first": "Julia Schwarz (appointment starts August 22,",
-      "last": "2022)",
+      "first": "Julia",
+      "last": "Schwarz",
       "type": "admin-staff"
     },
     {
