@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-09-03T08:13:17.452521",
+  "timestamp": "2022-09-10T08:12:49.621491",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -153,7 +153,6 @@
       "title": "Postdoctoral Research Associate",
       "name": "Thomas Langlois",
       "netid": "tal3",
-      "campus-email": "tal3@princeton.edu",
       "first": "Thomas",
       "last": "Langlois",
       "type": "researchers"

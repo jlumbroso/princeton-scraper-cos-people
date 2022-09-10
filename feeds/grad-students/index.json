@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-09-03T08:25:52.744835",
+  "timestamp": "2022-09-10T08:26:14.107948",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -769,7 +769,7 @@
       "name": "Fengchen Gong",
       "advisers": "Jennifer Rexford",
       "netid": "fg3738",
-      "campus-email": "fg3738@princeton.edu",
+      "campus-email": "gongf@princeton.edu",
       "first": "Fengchen",
       "last": "Gong",
       "type": "grad-students"
@@ -1874,7 +1874,7 @@
       "name": "Stephen Newman",
       "advisers": "Huacheng Yu",
       "netid": "sn9581",
-      "campus-email": "sn9581@princeton.edu",
+      "campus-email": "stephen.newman@princeton.edu",
       "first": "Stephen",
       "last": "Newman",
       "type": "grad-students"
@@ -1929,7 +1929,7 @@
       "name": "Julian Ost",
       "advisers": "Felix Heide",
       "netid": "jo5483",
-      "campus-email": "jo5483@princeton.edu",
+      "campus-email": "julian.ost@princeton.edu",
       "first": "Julian",
       "last": "Ost",
       "type": "grad-students"
