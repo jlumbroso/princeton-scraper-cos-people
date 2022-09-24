@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-09-17T08:26:32.407278",
+  "timestamp": "2022-09-24T08:20:48.804741",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -162,7 +162,7 @@
       "name": "Christopher Branner-Augmon",
       "advisers": "Jennifer Rexford",
       "netid": "cb2941",
-      "campus-email": "cb2941@princeton.edu",
+      "campus-email": "cbaugmon@princeton.edu",
       "first": "Christopher",
       "last": "Branner-Augmon",
       "type": "grad-students"

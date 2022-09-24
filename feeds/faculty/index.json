@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-09-17T08:11:08.543641",
+  "timestamp": "2022-09-24T08:09:20.210008",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -876,6 +876,7 @@
       "degree": "Ph.D., University of Pennsylvania, 1987",
       "title": "William R. Kenan, Jr., Visiting Professor for Distinguished Teaching",
       "name": "Shimon Schocken",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/ss5354",
       "netid": "ss5354",
       "campus-email": "ss5354@princeton.edu",
       "first": "Shimon",
@@ -1041,6 +1042,8 @@
       "degree": "Ph.D., Massachusetts Institute of Technology, 2022",
       "title": "Assistant Professor",
       "name": "Ellen Zhong",
+      "research-interests": "Machine learning, computational and structural biology, 3D computer vision, biological imaging",
+      "homepage": "https://www.cs.princeton.edu/~zhonge",
       "profile-url": "https://www.cs.princeton.edu/people/profile/zhonge",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=6488&thumb=",
       "netid": "zhonge",
