@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-09-24T08:20:48.804741",
+  "timestamp": "2022-10-01T08:21:41.177799",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -2035,7 +2035,7 @@
       "homepage": "https://www.cs.princeton.edu/~npopescu",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=5169&thumb=",
       "netid": "npopescu",
-      "campus-email": "npopescu@princeton.edu",
+      "campus-email": "nataliepopescu@princeton.edu",
       "first": "Natalie",
       "last": "Popescu",
       "type": "grad-students",
@@ -3015,7 +3015,7 @@
       "name": "John Yang",
       "advisers": "David Walker",
       "netid": "jy1682",
-      "campus-email": "jy1682@princeton.edu",
+      "campus-email": "johnby@princeton.edu",
       "first": "John",
       "last": "Yang",
       "type": "grad-students"

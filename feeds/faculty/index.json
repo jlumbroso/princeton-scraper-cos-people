@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-09-24T08:09:20.210008",
+  "timestamp": "2022-10-01T08:10:15.156158",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -905,10 +905,9 @@
       "email": "jps@cs.princeton.edu",
       "office": "324 Computer Science",
       "degree": "Ph.D., Stanford University, 1993",
-      "title": "Professor",
+      "title": "Professor of Computer Science, Technology, and Societal Change",
       "name": "Jaswinder Singh",
       "research-interests": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system.\r\nPresidental Early Career Award (PECASE), 1997.",
-      "homepage": "https://www.cs.princeton.edu/~jps",
       "profile-url": "https://www.cs.princeton.edu/people/profile/jps",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=29&thumb=",
       "netid": "jps",
