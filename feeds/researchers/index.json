@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-10-01T08:11:43.098426",
+  "timestamp": "2022-10-05T03:24:41.667650",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -329,8 +329,8 @@
       "name": "Cameron Turner      \n      \n              (appointment starts October 29, 2022)",
       "netid": "ct2797",
       "campus-email": "ct2797@princeton.edu",
-      "first": "Cameron Turner (appointment starts October 29,",
-      "last": "2022)",
+      "first": "Cameron",
+      "last": "Turner",
       "type": "researchers"
     },
     {
