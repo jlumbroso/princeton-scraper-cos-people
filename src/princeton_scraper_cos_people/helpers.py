@@ -15,14 +15,23 @@ __all__ = [
 CS_SCRAPING_LABEL_CLASS = "person-label"
 
 
-def split_name(name: str) -> typing.Tuple[str, str]:
+def split_name(
+        name: str,
+        remove_end_parentheses: bool = True
+) -> typing.Tuple[str, str]:
     """
     Returns a likely `(first, last)` split given a full name. This uses
     very simple heuristics, and assumes Western usage.
 
     :param name: A full name (first and last name).
+    :param remove_end_parentheses: Whether to remove content in parentheses.
     :return: A split pair with the first names, and the last name.
     """
+
+    # first remove parentheses "John Doe (something)" -> "John Doe"
+    if remove_end_parentheses:
+        name = name.split("(")[0].strip()
+
     words = name.split()
 
     first_bits = words[:-1]
