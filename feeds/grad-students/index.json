@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-10-15T08:26:32.607534",
+  "timestamp": "2022-10-22T08:23:13.994622",
   "data": [
     {
       "email": "jaduol@cs.princeton.edu",
@@ -30,7 +30,7 @@
       "name": "Anirudh Ajith",
       "advisers": "Karthik Narasimhan",
       "netid": "aa8052",
-      "campus-email": "aa8052@princeton.edu",
+      "campus-email": "anirudh.ajith@princeton.edu",
       "first": "Anirudh",
       "last": "Ajith",
       "type": "grad-students"
@@ -2835,7 +2835,7 @@
       "name": "Feng Xia",
       "advisers": "Tom Griffiths",
       "netid": "fx1222",
-      "campus-email": "fx1222@princeton.edu",
+      "campus-email": "feng.xia@princeton.edu",
       "first": "Feng",
       "last": "Xia",
       "type": "grad-students"

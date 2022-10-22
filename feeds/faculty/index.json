@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-10-15T08:11:31.862949",
+  "timestamp": "2022-10-22T08:09:51.090877",
   "data": [
     {
       "email": "rpa@cs.princeton.edu",
@@ -42,7 +42,7 @@
       "degree": "Ph.D., University of California, Berkeley, 1994",
       "title": "Charles C. Fitzmorris Professor",
       "name": "Sanjeev Arora",
-      "research-interests": "Uses of randomness in complexity theory and algorithms; Efficient algorithms for finding approximate solutions to NP-hard problems (or proving that they don't exist); Cryptography.\n\r\nMember, National Academy of Sciences, 2018; Member, American Academy of Arts and Sciences, 2015; Fulkerson Prize, 2012; G\u00f6del Prize, 2010 and 2001; ACM Fellow, 2009",
+      "research-interests": "Uses of randomness in complexity theory and algorithms; efficient algorithms for finding approximate solutions to NP-hard problems (or proving that they don't exist); cryptography\n\r\nMember, National Academy of Sciences, 2018; Member, American Academy of Arts and Sciences, 2015; Fulkerson Prize, 2012; G\u00f6del Prize, 2010 and 2001; ACM Fellow, 2009",
       "homepage": "https://www.cs.princeton.edu/~arora",
       "profile-url": "https://www.cs.princeton.edu/people/profile/arora",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4&thumb=",
@@ -863,6 +863,7 @@
       "degree": "Ph.D., Stanford University, 2015",
       "title": "Assistant Professor",
       "name": "Olga Russakovsky",
+      "research-interests": "I work on developing artificially intelligent systems that are able to reason about the visual world. My primary research area is computer vision, closely integrated with machine learning, human-computer interaction and fairness, accountability and transparency.",
       "homepage": "https://www.cs.princeton.edu/~olgarus",
       "profile-url": "https://www.cs.princeton.edu/people/profile/olgarus",
       "image-url": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id=4110&thumb=",
@@ -879,6 +880,7 @@
       "degree": "Ph.D., University of Pennsylvania, 1987",
       "title": "William R. Kenan, Jr., Visiting Professor for Distinguished Teaching",
       "name": "Shimon Schocken",
+      "research-interests": "Computer architecture, systems, computer science education",
       "profile-url": "https://www.cs.princeton.edu/people/profile/ss5354",
       "netid": "ss5354",
       "campus-email": "ss5354@princeton.edu",
