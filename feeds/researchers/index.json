@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-cos-people/",
-  "timestamp": "2022-10-22T08:11:39.862276",
+  "timestamp": "2022-10-29T08:13:35.321864",
   "data": [
     {
       "email": "aa0539@cs.princeton.edu",
@@ -326,7 +326,7 @@
       "email": "ct2797@cs.princeton.edu",
       "degree": "Ph.D., Australian National University, 2022",
       "title": "Postdoctoral Research Associate",
-      "name": "Cameron Turner      \n      \n              (appointment starts October 29, 2022)",
+      "name": "Cameron Turner",
       "netid": "ct2797",
       "campus-email": "ct2797@princeton.edu",
       "first": "Cameron",
